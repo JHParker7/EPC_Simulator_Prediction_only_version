@@ -1,0 +1,222 @@
+,0
+0,"Room heaters, mains gas"
+1,"Room heaters, electric"
+2,None
+3,"Room heaters, wood logs"
+4,Portable electric heaters (assumed)
+5,Portable electric heaters
+6,"Room heaters, dual fuel (mineral and wood)"
+7,SAP05:Secondary-Heating
+8,"Room heaters, coal"
+9,"Room heaters, smokeless fuel"
+10,"Room heaters, LPG"
+11,"Room heaters, anthracite"
+12,"Room heaters, wood chips"
+13,"Room heaters, oil"
+14,"Room heaters, wood pellets"
+15,"Room heaters, bioethanol"
+16,"Room heaters, bottled gas"
+17,"Room heaters, bottled LPG"
+18,Dim
+19,"Room heaters, lpg"
+20,"Room heaters, B30K"
+21,"Room heaters,"
+22,Portable electric heaters(assumed)
+23,"Gas/LPG boiler pre-1998, with fan-assisted flue, gas"
+24,"Gas/LPG boiler pre-1998 with balanced or open-flue, gas"
+25,"Electric Underfloor Heating (Standard tariff), electric"
+26,"Room heaters, "
+27,"Room heaters, |Gwresogyddion ystafell, |mains gas|nwy prif gyflenwad"
+28,None|Dim
+29,"Gwresogyddion ystafell, nwy prif gyflenwad"
+30,"Room heaters, (null)"
+31,"Room heaters, |Gwresogyddion ystafell, |electric|trydan"
+32,"Room heaters, dual fuel"
+33,"Gas/LPG boiler 1998 or later, gas"
+34,"Gwresogyddion ystafell, trydan"
+35,"Room heaters, bulk LPG"
+36,"Room heaters, |Gwresogyddion ystafell, |wood logs|logiau coed"
+37,"Room heaters, smokeless Fuel"
+38,Room heaters
+39,"Room heaters, LNG"
+40,"Room heaters, bulk wood pellets"
+41,"Room heaters, heating oil"
+42,"Gwresogyddion ystafell, LPG"
+43,","
+44,"Gas/LPG CPSU, gas"
+45,"Room heaters, main wood pellets"
+46,"Other Space Heating Systems, electric"
+47,"Gwresogyddion ystafell, logiau coed"
+48,"Hot-Water-Only Systems, electric"
+49,"Hot-Water-Only Systems, gas"
+50,Electric ceiling heating
+51,"Room heaters, biogas"
+52,"Gwresogyddion ystafell, dau danwydd (mwynau a choed)"
+53,"Room heaters, secondary wood pellets"
+54,"Room heaters, liquid biofuel"
+55,"Room heaters, wood pellets (bags)"
+56,Gwresogyddion trydan cludadwy (rhagdybiaeth)
+57,"Room heaters, 13"
+58,"Room heaters, |Gwresogyddion ystafell, |dual fuel (mineral and wood)|dau danwydd (mwynau a choed)"
+59,"Gwresogyddion ystafell, glo"
+60,"Electric underfloor heating, electric"
+61,"Room heaters, |Gwresogyddion ystafell, |wood pellets|pelenni coed"
+62,"Room heaters, heat from eletric heat pump"
+63,"LPG room heaters, gas"
+64,"Room heaters, rapeseed oil"
+65,Community scheme
+66,Gwresogyddion trydan cludadwy
+67,"Community, community"
+68,"Room heaters, |Gwresogyddion ystafell, |LPG|LPG"
+69,"Room heaters, biodiesel from any biomass source"
+70,"Room heaters, |Gwresogyddion ystafell, |wood chips|asglodion coed"
+71,"Gas (including LPG) room heaters, gas"
+72,"Room heaters, |Gwresogyddion ystafell, |coal|glo"
+73,"Room heaters, biomass"
+74,"Room heaters,  Waste combustion"
+75,Electric underfloor heating
+76,"Room heaters, appliances able to use mineral oil or liquid biofuel"
+77,"Gwresogyddion ystafell, tanwydd di-fwg"
+78,", gas"
+79,"Mains Gas room heaters, gas"
+80,"Community scheme, heat from boilers - mains gas"
+81,"Room heaters, |Gwresogyddion ystafell, |oil|olew"
+82,"Room heaters, bioethanol from any biomass source"
+83,Room heaters????????????????????????????????????????????????????mains gas
+84,Room heaters????????????????????????????????????????????????????electric
+85,"Room heaters, wood pellets (bulk)"
+86,Community scheme with CHP
+87,"Gwresogyddion ystafell, coal"
+88,"Gwresogyddion ystafell, dual fuel (mineral and wood)"
+89,None
+90,"Room heaters, dual fuel (mineral and wood)"
+91,"Room heaters, coal"
+92,"Room heaters, mains gas"
+93,"Room heaters, wood logs"
+94,"Room heaters, electric"
+95,SAP05:Secondary-Heating
+96,Portable electric heaters (assumed)
+97,"Room heaters, smokeless fuel"
+98,"Room heaters, LPG"
+99,Portable electric heaters
+100,"Room heaters, bioethanol"
+101,"Room heaters, anthracite"
+102,"Room heaters, wood pellets"
+103,"Room heaters,"
+104,"Electric Underfloor Heating (Standard tariff), electric"
+105,"Room heaters, wood chips"
+106,Gwresogyddion trydan cludadwy (rhagdybiaeth)
+107,"Room heaters, oil"
+108,"Room heaters, bottled gas"
+109,"Room heaters, (null)"
+110,"Room heaters, mains gas"
+111,None
+112,"Room heaters, electric"
+113,Portable electric heaters (assumed)
+114,"Room heaters, wood logs"
+115,"Room heaters, coal"
+116,"Room heaters, smokeless fuel"
+117,SAP05:Secondary-Heating
+118,"Room heaters, dual fuel (mineral and wood)"
+119,"Room heaters, LPG"
+120,Portable electric heaters
+121,"Room heaters, bottled gas"
+122,"Room heaters, anthracite"
+123,"Room heaters, wood chips"
+124,"Room heaters, wood pellets"
+125,"Room heaters, oil"
+126,"Room heaters, bottled LPG"
+127,"Room heaters, bioethanol"
+128,"Room heaters, mains gas"
+129,None
+130,"Room heaters, electric"
+131,Portable electric heaters (assumed)
+132,"Room heaters, wood logs"
+133,"Room heaters, coal"
+134,"Room heaters, smokeless fuel"
+135,SAP05:Secondary-Heating
+136,"Room heaters, dual fuel (mineral and wood)"
+137,"Room heaters, LPG"
+138,Portable electric heaters
+139,"Room heaters, bottled gas"
+140,"Room heaters, anthracite"
+141,"Room heaters, wood chips"
+142,"Room heaters, wood pellets"
+143,"Room heaters, oil"
+144,"Room heaters, bottled LPG"
+145,"Room heaters, bioethanol"
+146,"Room heaters, mains gas"
+147,None
+148,"Room heaters, electric"
+149,Portable electric heaters (assumed)
+150,"Room heaters, wood logs"
+151,"Room heaters, coal"
+152,"Room heaters, smokeless fuel"
+153,SAP05:Secondary-Heating
+154,"Room heaters, dual fuel (mineral and wood)"
+155,"Room heaters, LPG"
+156,Portable electric heaters
+157,"Room heaters, bottled gas"
+158,"Room heaters, anthracite"
+159,"Room heaters, wood chips"
+160,"Room heaters, wood pellets"
+161,"Room heaters, oil"
+162,"Room heaters, bottled LPG"
+163,"Room heaters, bioethanol"
+164,"Room heaters, mains gas"
+165,None
+166,"Room heaters, electric"
+167,Portable electric heaters (assumed)
+168,"Room heaters, wood logs"
+169,"Room heaters, coal"
+170,"Room heaters, smokeless fuel"
+171,SAP05:Secondary-Heating
+172,"Room heaters, dual fuel (mineral and wood)"
+173,"Room heaters, LPG"
+174,Portable electric heaters
+175,"Room heaters, bottled gas"
+176,"Room heaters, anthracite"
+177,"Room heaters, wood chips"
+178,"Room heaters, wood pellets"
+179,"Room heaters, oil"
+180,"Room heaters, bottled LPG"
+181,"Room heaters, bioethanol"
+182,"Room heaters, mains gas"
+183,None
+184,"Room heaters, electric"
+185,Portable electric heaters (assumed)
+186,"Room heaters, wood logs"
+187,"Room heaters, coal"
+188,"Room heaters, smokeless fuel"
+189,SAP05:Secondary-Heating
+190,"Room heaters, dual fuel (mineral and wood)"
+191,"Room heaters, LPG"
+192,Portable electric heaters
+193,"Room heaters, bottled gas"
+194,"Room heaters, anthracite"
+195,"Room heaters, wood chips"
+196,"Room heaters, wood pellets"
+197,"Room heaters, oil"
+198,"Room heaters, bottled LPG"
+199,"Room heaters, bioethanol"
+200,"Room heaters, mains gas"
+201,None
+202,"Room heaters, electric"
+203,Portable electric heaters (assumed)
+204,"Room heaters, wood logs"
+205,"Room heaters, coal"
+206,"Room heaters, smokeless fuel"
+207,SAP05:Secondary-Heating
+208,"Room heaters, dual fuel (mineral and wood)"
+209,"Room heaters, LPG"
+210,Portable electric heaters
+211,"Room heaters, bottled gas"
+212,"Room heaters, anthracite"
+213,"Room heaters, wood chips"
+214,"Room heaters, wood pellets"
+215,"Room heaters, oil"
+216,"Room heaters, bottled LPG"
+217,"Room heaters, bioethanol"
+218,
+219,"Gwresogyddion ystafell, pelenni coed"
+220,"Gwresogyddion ystafell, electric"

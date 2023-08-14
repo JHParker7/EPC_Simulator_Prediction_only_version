@@ -1,0 +1,309 @@
+,0
+0,Single glazed
+1,Fully double glazed
+2,High performance glazing
+3,Mostly double glazing
+4,Fully triple glazed
+5,Partial double glazing
+6,Some double glazing
+7,Single glazeddouble glazing
+8,Fully secondary glazing
+9,Partial secondary glazing
+10,Some secondary glazing
+11,SAP05:Windows
+12,Multiple glazing throughout
+13,Multiple glazing throughout 
+14,Mostly multiple glazing
+15,Full secondary glazing
+16,Mostly secondary glazing
+17,Single glazedsecondary glazing
+18,Partial multiple glazing
+19,Partial triple glazing
+20,Gwydrau dwbl llawn
+21,Some multiple glazing
+22,Mostly triple glazing
+23,Secondary glazing
+24,Single and multiple glazing
+25,Full triple glazing
+26,Some triple glazing
+27,Fully double glazed|Gwydrau dwbl llawn
+28,Fully secondary glazed
+29,Single glazedSingle glazing
+30,High performance glazing|Ffenestri perfformiad uchel
+31,Multiple glazing throughout|Gwydrau lluosog ym mhobman
+32,Gwydrau dwbl rhannol
+33,Mostly  double glazing
+34,Gwydrau dwbl gan mwyaf
+35,Gwydrau sengl
+36,double glazing
+37,Multiple glazing throughout double glazing
+38,Fully double glazing
+39,Some  double glazing
+40,Mostly  multiple glazing
+41,Single glazedtriple glazing
+42,"Solid, no insulation (assumed)"
+43,Partial multiple glazingdouble glazing
+44,Full triple glazed
+45,Partial double glazed
+46,Ffenestri perfformiad uchel
+47,Some Single glazing
+48,Some  secondary glazing
+49,"Suspended, no insulation (assumed)"
+50,Some multiple glazingsecondary glazing
+51,Mostly  secondary glazing
+52,Some  multiple glazing
+53,Partial double glazing|Gwydrau dwbl rhannol
+54,secondary glazing
+55,Unknown complex glazing regime
+56,Multiple glazing throughout triple glazing
+57,Partial double glazingdouble glazing
+58,Some multiple glazingdouble glazing
+59,Rhai gwydrau dwbl
+60,Some  triple glazing
+61,Single glazed|Gwydrau sengl
+62,Gwydrau triphlyg gan mwyaf
+63,Mostly  triple glazing
+64,Partial Single glazing
+65,Fully double glazeddouble glazing
+66,Fully
+67,Multiple glazing throught
+68,Some
+69,Mostly
+70,Gwydrau eilaidd llawn
+71,Fully triple glazed|Gwydrau triphlyg llawn
+72,(other premises below)
+73,Fully triple glazing
+74,Fully Triple glazed
+75,"['Fully double glazed' 'High performance glazing' 'Mostly double glazing'
+ 'Single glazed' 'Fully triple glazed' 'Partial double glazing'
+ 'Full secondary glazing' 'Some double glazing'
+ 'Multiple glazing throughout' 'SAP05:Windows' 'Mostly secondary glazing'
+ nan 'Some secondary glazing' 'Partial secondary glazing'
+ 'Single glazeddouble glazing' 'Mostly multiple glazing'
+ 'Partial multiple glazing' 'Partial triple glazing'
+ 'Single glazedsecondary glazing' 'Secondary glazing'
+ 'Some multiple glazing' 'Fully secondary glazing' 'Mostly triple glazing'
+ 'Some triple glazing' 'Gwydrau dwbl llawn' 'Single glazedSingle glazing'
+ 'Some  double glazing' 'Multiple glazing throughout '
+ 'Single and multiple glazing']"
+76,"['Fully double glazed' 'High performance glazing' 'Mostly double glazing'
+ 'Single glazed' 'Fully triple glazed' 'Partial double glazing'
+ 'Full secondary glazing' 'Some double glazing'
+ 'Multiple glazing throughout' 'SAP05:Windows' 'Mostly secondary glazing'
+ nan 'Some secondary glazing' 'Partial secondary glazing'
+ 'Single glazeddouble glazing' 'Mostly multiple glazing'
+ 'Partial multiple glazing' 'Partial triple glazing'
+ 'Single glazedsecondary glazing' 'Secondary glazing'
+ 'Some multiple glazing' 'Fully secondary glazing' 'Mostly triple glazing'
+ 'Some triple glazing' 'Gwydrau dwbl llawn' 'Single glazedSingle glazing'
+ 'Some  double glazing' 'Multiple glazing throughout '
+ 'Single and multiple glazing']"
+77,Fully double glazed
+78,High performance glazing
+79,Mostly double glazing
+80,Single glazed
+81,Fully triple glazed
+82,Partial double glazing
+83,Full secondary glazing
+84,Some double glazing
+85,Multiple glazing throughout
+86,SAP05:Windows
+87,Mostly secondary glazing
+88,Some secondary glazing
+89,Partial secondary glazing
+90,Single glazeddouble glazing
+91,Mostly multiple glazing
+92,Partial multiple glazing
+93,Partial triple glazing
+94,Single glazedsecondary glazing
+95,Secondary glazing
+96,Some multiple glazing
+97,Fully secondary glazing
+98,Mostly triple glazing
+99,Some triple glazing
+100,Gwydrau dwbl llawn
+101,Single glazedSingle glazing
+102,Some  double glazing
+103,Multiple glazing throughout 
+104,Single and multiple glazing
+105,Fully double glazed
+106,Mostly double glazing
+107,High performance glazing
+108,Single glazeddouble glazing
+109,Some double glazing
+110,Single glazed
+111,Partial double glazing
+112,SAP05:Windows
+113,Partial secondary glazing
+114,Mostly secondary glazing
+115,Full secondary glazing
+116,Fully triple glazed
+117,Multiple glazing throughout
+118,Mostly multiple glazing
+119,Fully secondary glazing
+120,Some secondary glazing
+121,Partial multiple glazing
+122,Single glazedsecondary glazing
+123,Fully double glazed
+124,Mostly double glazing
+125,High performance glazing
+126,Single glazeddouble glazing
+127,Some double glazing
+128,Single glazed
+129,Partial double glazing
+130,SAP05:Windows
+131,Partial secondary glazing
+132,Mostly secondary glazing
+133,Full secondary glazing
+134,Fully triple glazed
+135,Multiple glazing throughout
+136,Mostly multiple glazing
+137,Fully secondary glazing
+138,Some secondary glazing
+139,Partial multiple glazing
+140,Single glazedsecondary glazing
+141,Fully double glazed
+142,Mostly double glazing
+143,High performance glazing
+144,Single glazeddouble glazing
+145,Some double glazing
+146,Single glazed
+147,Partial double glazing
+148,SAP05:Windows
+149,Partial secondary glazing
+150,Mostly secondary glazing
+151,Full secondary glazing
+152,Fully triple glazed
+153,Multiple glazing throughout
+154,Mostly multiple glazing
+155,Fully secondary glazing
+156,Some secondary glazing
+157,Partial multiple glazing
+158,Single glazedsecondary glazing
+159,Fully double glazed
+160,Mostly double glazing
+161,High performance glazing
+162,Single glazeddouble glazing
+163,Some double glazing
+164,Single glazed
+165,Partial double glazing
+166,SAP05:Windows
+167,Partial secondary glazing
+168,Mostly secondary glazing
+169,Full secondary glazing
+170,Fully triple glazed
+171,Multiple glazing throughout
+172,Mostly multiple glazing
+173,Fully secondary glazing
+174,Some secondary glazing
+175,Partial multiple glazing
+176,Single glazedsecondary glazing
+177,Fully double glazed
+178,Mostly double glazing
+179,High performance glazing
+180,Single glazeddouble glazing
+181,Some double glazing
+182,Single glazed
+183,Partial double glazing
+184,SAP05:Windows
+185,Partial secondary glazing
+186,Mostly secondary glazing
+187,Full secondary glazing
+188,Fully triple glazed
+189,Multiple glazing throughout
+190,Mostly multiple glazing
+191,Fully secondary glazing
+192,Some secondary glazing
+193,Partial multiple glazing
+194,Single glazedsecondary glazing
+195,Fully double glazed
+196,Mostly double glazing
+197,High performance glazing
+198,Single glazeddouble glazing
+199,Some double glazing
+200,Single glazed
+201,Partial double glazing
+202,SAP05:Windows
+203,Partial secondary glazing
+204,Mostly secondary glazing
+205,Full secondary glazing
+206,Fully triple glazed
+207,Multiple glazing throughout
+208,Mostly multiple glazing
+209,Fully secondary glazing
+210,Some secondary glazing
+211,Partial multiple glazing
+212,Single glazedsecondary glazing
+213,Fully double glazed
+214,Mostly double glazing
+215,High performance glazing
+216,Single glazeddouble glazing
+217,Some double glazing
+218,Single glazed
+219,Partial double glazing
+220,SAP05:Windows
+221,Partial secondary glazing
+222,Mostly secondary glazing
+223,Full secondary glazing
+224,Fully triple glazed
+225,Multiple glazing throughout
+226,Mostly multiple glazing
+227,Fully secondary glazing
+228,Some secondary glazing
+229,Partial multiple glazing
+230,Single glazedsecondary glazing
+231,Fully double glazed
+232,Mostly double glazing
+233,High performance glazing
+234,Single glazeddouble glazing
+235,Some double glazing
+236,Single glazed
+237,Partial double glazing
+238,SAP05:Windows
+239,Partial secondary glazing
+240,Mostly secondary glazing
+241,Full secondary glazing
+242,Fully triple glazed
+243,Multiple glazing throughout
+244,Mostly multiple glazing
+245,Fully secondary glazing
+246,Some secondary glazing
+247,Partial multiple glazing
+248,Single glazedsecondary glazing
+249,Fully double glazed
+250,Mostly double glazing
+251,High performance glazing
+252,Single glazeddouble glazing
+253,Some double glazing
+254,Single glazed
+255,Partial double glazing
+256,SAP05:Windows
+257,Partial secondary glazing
+258,Mostly secondary glazing
+259,Full secondary glazing
+260,Fully triple glazed
+261,Multiple glazing throughout
+262,Mostly multiple glazing
+263,Fully secondary glazing
+264,Some secondary glazing
+265,Partial multiple glazing
+266,Single glazedsecondary glazing
+267,Fully double glazed
+268,Mostly double glazing
+269,High performance glazing
+270,Single glazeddouble glazing
+271,Some double glazing
+272,Single glazed
+273,Partial double glazing
+274,SAP05:Windows
+275,Partial secondary glazing
+276,Mostly secondary glazing
+277,Full secondary glazing
+278,Fully triple glazed
+279,Multiple glazing throughout
+280,Mostly multiple glazing
+281,Fully secondary glazing
+282,Some secondary glazing
+283,Partial multiple glazing
+284,Single glazedsecondary glazing
+285,

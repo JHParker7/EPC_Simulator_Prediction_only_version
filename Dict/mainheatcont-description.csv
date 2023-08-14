@@ -1,0 +1,377 @@
+,0
+0,Programmer and room thermostat
+1,"Programmer, no room thermostat"
+2,"Programmer, room thermostat and TRVs"
+3,Time and temperature zone control
+4,"Flat rate charging, TRVs"
+5,No time or thermostatic control of room temperature
+6,Programmer and at least two room thermostats
+7,"Programmer, TRVs and bypass"
+8,Room thermostat only
+9,Manual charge control
+10,None
+11,Automatic charge control
+12,SAP05:Main-Heating-Controls
+13,"Programmer, TRVs and boiler energy manager"
+14,No thermostatic control of room temperature
+15,"Flat rate charging, programmer no room thermostat"
+16,Programmer and appliance thermostats
+17,TRVs and bypass
+18,"Flat rate charging, programmer and TRVs"
+19,"Unit charging, programmer and TRVs"
+20,Appliance thermostats
+21,Programmer and at least two room thermostats including a delayed start thermostat
+22,"Flat rate charging, room thermostat only"
+23,"Charging system linked to use of community heating, programmer and TRVs"
+24,"Flat rate charging, no thermostatic control of room temperature"
+25,"Flat rate charging, no stat control of room temperature"
+26,Programmer and at least 2 room thermostats
+27,"Flat rate charging, programmer, no room thermostat"
+28,"Charging system linked to use of community heating, programmer and room thermostat"
+29,"Charging system linked to the use of community heating, prog and TRVs"
+30,Not relevant (supplies DHW only)
+31,"Flat rate charging, programmer and room thermostat"
+32,Celect-type controls
+33,"Programmer, TRVs and flow switch"
+34,"Charging system linked to use of community heating, room thermostat only"
+35,"Charging system linked to use of community heating, TRVs"
+36,"Flat rate charging, programmer and at least two room thermostats"
+37,Programmer and room thermostats
+38,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+39,Room thermostats only
+40,No time or thermostatic control of room temp
+41,"Charging system linked to the use of community heating, programmer and TRVs"
+42,Controls for high heat retention storage heaters
+43,"Flat rate charging, no thermostatic control"
+44,Appliance thermostat and programmer
+45,"Flat rate charging, programmer and room stat"
+46,Not applicable (boiler provides DHW only)
+47,"Rhaglennydd, dim thermostat ystafell"
+48,Temperature zone control
+49,2207 Time and temperature zone control
+50,"Charging system linked to use of communit heating, programmer and room thermostat"
+51,"Programmer, roomstat and TRVs"
+52,"Delayed start thermostat, programmer and TRVs"
+53,"Charging system linked to use of community heating, programmer?and TRVs"
+54,"Rhaglennydd, thermostat ystafell a TRVs"
+55,"Flat rate charging*, programmer and TRVs"
+56,"Rhaglennydd, TRVs a falf osgoi"
+57,TRVs a falf osgoi
+58,Celect control
+59,Thermostat ystafell yn unig
+60,"Charging system linked to use of communit heating, TRVs"
+61,Rhaglennydd a thermostat ystafell
+62,"Charging system linked to use of communit heating, programmer and TRVs"
+63,Celect controls
+64,"Charging system linked to use of community heating, programmer and at least two room stats"
+65,Delayed start thermostat and programmer
+66,"Charging system linked to use of community heating, programmerand room thermostat"
+67,"Thermostat, programmer and TRVs"
+68,Rheolaeth amser a rheolaeth parthau tymheredd
+69,Delayed start stat & program & TRV's
+70,Flat rate charging TRVs
+71,Programmer and at least two room thermostat
+72,"Charging linked to use, programmer and TRVs"
+73,Thermostat and programmer
+74,"Charging system linked to use of communit heating, room thermostat only"
+75,"TRV's, program & flow switch"
+76,No time or thermostatic control of temperature
+77,"Programmer, no thermostat"
+78,SAP:Main-Heating-Controls
+79,Rheoli’r tâl â llaw
+80,CELECT-type controls
+81,Rheoli'r t?l ? llaw
+82,Time and temperature zone control by suitable arrangement of plumbing and electrical services
+83,RheoliGÇÖr t+ól +ó llaw
+84,Rhaglennydd a thermostatau ar y cyfarpar
+85,Dim rheolaeth thermostatig ar dymheredd yr ystafell
+86,Dim rheolaeth amser na rheolaeth thermostatig ar dymheredd yr ystafell
+87,Delayed start programmer and at least two room thermostats
+88,Programmer and delayed start thermostat
+89,Appliance thermostat
+90,????????????????
+91,"Charging system linked to use of community heating, programmer"
+92,Rheoli?r tal a llaw
+93,"TÃ¢l un gyfradd, TRVs"
+94,"T?l un gyfradd, dim rheolaeth thermostatig ar dymheredd yr ystafell"
+95,???????????????????????????????????
+96,????????????????????????????????????????????????
+97,??????????????????????????????????????????????????????????
+98,       
+99,"System dalu wedi’i chysylltu â defnyddio gwres cymunedol, thermostat ystafell yn unig"
+100,"System dalu wedi’i chysylltu â defnyddio gwres cymunedol, rhaglennydd a TRVs"
+101,"Charging system linked to community heating use, programmer and TRVs"
+102,Rheoli gwefr drydanol yn awtomatig
+103,Dim
+104,Rheoli'r tâl â llaw
+105,Rhaglennydd ac o leiaf ddau thermostat ystafell
+106,"Programmer, room thermostat and TRVs"
+107,Programmer and room thermostat
+108,"Programmer, no room thermostat"
+109,Time and temperature zone control
+110,No time or thermostatic control of room temperature
+111,Manual charge control
+112,None
+113,Appliance thermostats
+114,"Flat rate charging, TRVs"
+115,"Flat rate charging, no stat control of room temperature"
+116,Programmer and appliance thermostats
+117,"Flat rate charging, no thermostatic control of room temperature"
+118,"Charging system linked to use of community heating, programmer and TRVs"
+119,"Programmer, TRVs and boiler energy manager"
+120,"Flat rate charging, programmer, no room thermostat"
+121,"Programmer, TRVs and bypass"
+122,Automatic charge control
+123,Programmer and at least two room thermostats
+124,Room thermostat only
+125,"Flat rate charging, room thermostat only"
+126,"Flat rate charging, programmer no room thermostat"
+127,SAP05:Main-Heating-Controls
+128,No thermostatic control of room temperature
+129,TRVs and bypass
+130,"Charging system linked to use of community heating, room thermostat only"
+131,"Unit charging, programmer and TRVs"
+132,Programmer and at least 2 room thermostats
+133,"Flat rate charging, programmer and TRVs"
+134,"Flat rate charging, programmer and room thermostat"
+135,Not relevant (supplies DHW only)
+136,"Programmer, TRVs and flow switch"
+137,"Charging system linked to use of community heating, TRVs"
+138,"Charging system linked to use of community heating, programmer and room thermostat"
+139,Programmer and room thermostats
+140,Programmer and at least two room thermostats including a delayed start thermostat
+141,"Charging system linked to the use of community heating, prog and TRVs"
+142,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+143,Celect-type controls
+144,Room thermostats only
+145,Controls for high heat retention storage heaters
+146,"Flat rate charging, programmer and at least two room thermostats"
+147,No time or thermostatic control of room temp
+148,"Charging system linked to the use of community heating, programmer and TRVs"
+149,"Programmer, room thermostat and TRVs"
+150,Programmer and room thermostat
+151,"Programmer, no room thermostat"
+152,Time and temperature zone control
+153,No time or thermostatic control of room temperature
+154,Manual charge control
+155,None
+156,Appliance thermostats
+157,"Flat rate charging, TRVs"
+158,"Flat rate charging, no stat control of room temperature"
+159,Programmer and appliance thermostats
+160,"Flat rate charging, no thermostatic control of room temperature"
+161,"Charging system linked to use of community heating, programmer and TRVs"
+162,"Programmer, TRVs and boiler energy manager"
+163,"Flat rate charging, programmer, no room thermostat"
+164,"Programmer, TRVs and bypass"
+165,Automatic charge control
+166,Programmer and at least two room thermostats
+167,Room thermostat only
+168,"Flat rate charging, room thermostat only"
+169,"Flat rate charging, programmer no room thermostat"
+170,SAP05:Main-Heating-Controls
+171,No thermostatic control of room temperature
+172,TRVs and bypass
+173,"Charging system linked to use of community heating, room thermostat only"
+174,"Unit charging, programmer and TRVs"
+175,Programmer and at least 2 room thermostats
+176,"Flat rate charging, programmer and TRVs"
+177,"Flat rate charging, programmer and room thermostat"
+178,Not relevant (supplies DHW only)
+179,"Programmer, TRVs and flow switch"
+180,"Charging system linked to use of community heating, TRVs"
+181,"Charging system linked to use of community heating, programmer and room thermostat"
+182,Programmer and room thermostats
+183,Programmer and at least two room thermostats including a delayed start thermostat
+184,"Charging system linked to the use of community heating, prog and TRVs"
+185,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+186,Celect-type controls
+187,Room thermostats only
+188,Controls for high heat retention storage heaters
+189,"Flat rate charging, programmer and at least two room thermostats"
+190,No time or thermostatic control of room temp
+191,"Charging system linked to the use of community heating, programmer and TRVs"
+192,"Programmer, room thermostat and TRVs"
+193,Programmer and room thermostat
+194,"Programmer, no room thermostat"
+195,Time and temperature zone control
+196,No time or thermostatic control of room temperature
+197,Manual charge control
+198,None
+199,Appliance thermostats
+200,"Flat rate charging, TRVs"
+201,"Flat rate charging, no stat control of room temperature"
+202,Programmer and appliance thermostats
+203,"Flat rate charging, no thermostatic control of room temperature"
+204,"Charging system linked to use of community heating, programmer and TRVs"
+205,"Programmer, TRVs and boiler energy manager"
+206,"Flat rate charging, programmer, no room thermostat"
+207,"Programmer, TRVs and bypass"
+208,Automatic charge control
+209,Programmer and at least two room thermostats
+210,Room thermostat only
+211,"Flat rate charging, room thermostat only"
+212,"Flat rate charging, programmer no room thermostat"
+213,SAP05:Main-Heating-Controls
+214,No thermostatic control of room temperature
+215,TRVs and bypass
+216,"Charging system linked to use of community heating, room thermostat only"
+217,"Unit charging, programmer and TRVs"
+218,Programmer and at least 2 room thermostats
+219,"Flat rate charging, programmer and TRVs"
+220,"Flat rate charging, programmer and room thermostat"
+221,Not relevant (supplies DHW only)
+222,"Programmer, TRVs and flow switch"
+223,"Charging system linked to use of community heating, TRVs"
+224,"Charging system linked to use of community heating, programmer and room thermostat"
+225,Programmer and room thermostats
+226,Programmer and at least two room thermostats including a delayed start thermostat
+227,"Charging system linked to the use of community heating, prog and TRVs"
+228,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+229,Celect-type controls
+230,Room thermostats only
+231,Controls for high heat retention storage heaters
+232,"Flat rate charging, programmer and at least two room thermostats"
+233,No time or thermostatic control of room temp
+234,"Charging system linked to the use of community heating, programmer and TRVs"
+235,"Programmer, room thermostat and TRVs"
+236,Programmer and room thermostat
+237,"Programmer, no room thermostat"
+238,Time and temperature zone control
+239,No time or thermostatic control of room temperature
+240,Manual charge control
+241,None
+242,Appliance thermostats
+243,"Flat rate charging, TRVs"
+244,"Flat rate charging, no stat control of room temperature"
+245,Programmer and appliance thermostats
+246,"Flat rate charging, no thermostatic control of room temperature"
+247,"Charging system linked to use of community heating, programmer and TRVs"
+248,"Programmer, TRVs and boiler energy manager"
+249,"Flat rate charging, programmer, no room thermostat"
+250,"Programmer, TRVs and bypass"
+251,Automatic charge control
+252,Programmer and at least two room thermostats
+253,Room thermostat only
+254,"Flat rate charging, room thermostat only"
+255,"Flat rate charging, programmer no room thermostat"
+256,SAP05:Main-Heating-Controls
+257,No thermostatic control of room temperature
+258,TRVs and bypass
+259,"Charging system linked to use of community heating, room thermostat only"
+260,"Unit charging, programmer and TRVs"
+261,Programmer and at least 2 room thermostats
+262,"Flat rate charging, programmer and TRVs"
+263,"Flat rate charging, programmer and room thermostat"
+264,Not relevant (supplies DHW only)
+265,"Programmer, TRVs and flow switch"
+266,"Charging system linked to use of community heating, TRVs"
+267,"Charging system linked to use of community heating, programmer and room thermostat"
+268,Programmer and room thermostats
+269,Programmer and at least two room thermostats including a delayed start thermostat
+270,"Charging system linked to the use of community heating, prog and TRVs"
+271,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+272,Celect-type controls
+273,Room thermostats only
+274,Controls for high heat retention storage heaters
+275,"Flat rate charging, programmer and at least two room thermostats"
+276,No time or thermostatic control of room temp
+277,"Charging system linked to the use of community heating, programmer and TRVs"
+278,"Programmer, room thermostat and TRVs"
+279,Programmer and room thermostat
+280,"Programmer, no room thermostat"
+281,Time and temperature zone control
+282,No time or thermostatic control of room temperature
+283,Manual charge control
+284,None
+285,Appliance thermostats
+286,"Flat rate charging, TRVs"
+287,"Flat rate charging, no stat control of room temperature"
+288,Programmer and appliance thermostats
+289,"Flat rate charging, no thermostatic control of room temperature"
+290,"Charging system linked to use of community heating, programmer and TRVs"
+291,"Programmer, TRVs and boiler energy manager"
+292,"Flat rate charging, programmer, no room thermostat"
+293,"Programmer, TRVs and bypass"
+294,Automatic charge control
+295,Programmer and at least two room thermostats
+296,Room thermostat only
+297,"Flat rate charging, room thermostat only"
+298,"Flat rate charging, programmer no room thermostat"
+299,SAP05:Main-Heating-Controls
+300,No thermostatic control of room temperature
+301,TRVs and bypass
+302,"Charging system linked to use of community heating, room thermostat only"
+303,"Unit charging, programmer and TRVs"
+304,Programmer and at least 2 room thermostats
+305,"Flat rate charging, programmer and TRVs"
+306,"Flat rate charging, programmer and room thermostat"
+307,Not relevant (supplies DHW only)
+308,"Programmer, TRVs and flow switch"
+309,"Charging system linked to use of community heating, TRVs"
+310,"Charging system linked to use of community heating, programmer and room thermostat"
+311,Programmer and room thermostats
+312,Programmer and at least two room thermostats including a delayed start thermostat
+313,"Charging system linked to the use of community heating, prog and TRVs"
+314,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+315,Celect-type controls
+316,Room thermostats only
+317,Controls for high heat retention storage heaters
+318,"Flat rate charging, programmer and at least two room thermostats"
+319,No time or thermostatic control of room temp
+320,"Charging system linked to the use of community heating, programmer and TRVs"
+321,"Programmer, room thermostat and TRVs"
+322,Programmer and room thermostat
+323,"Programmer, no room thermostat"
+324,Time and temperature zone control
+325,No time or thermostatic control of room temperature
+326,Manual charge control
+327,None
+328,Appliance thermostats
+329,"Flat rate charging, TRVs"
+330,"Flat rate charging, no stat control of room temperature"
+331,Programmer and appliance thermostats
+332,"Flat rate charging, no thermostatic control of room temperature"
+333,"Charging system linked to use of community heating, programmer and TRVs"
+334,"Programmer, TRVs and boiler energy manager"
+335,"Flat rate charging, programmer, no room thermostat"
+336,"Programmer, TRVs and bypass"
+337,Automatic charge control
+338,Programmer and at least two room thermostats
+339,Room thermostat only
+340,"Flat rate charging, room thermostat only"
+341,"Flat rate charging, programmer no room thermostat"
+342,SAP05:Main-Heating-Controls
+343,No thermostatic control of room temperature
+344,TRVs and bypass
+345,"Charging system linked to use of community heating, room thermostat only"
+346,"Unit charging, programmer and TRVs"
+347,Programmer and at least 2 room thermostats
+348,"Flat rate charging, programmer and TRVs"
+349,"Flat rate charging, programmer and room thermostat"
+350,Not relevant (supplies DHW only)
+351,"Programmer, TRVs and flow switch"
+352,"Charging system linked to use of community heating, TRVs"
+353,"Charging system linked to use of community heating, programmer and room thermostat"
+354,Programmer and room thermostats
+355,Programmer and at least two room thermostats including a delayed start thermostat
+356,"Charging system linked to the use of community heating, prog and TRVs"
+357,"Charging system linked to use of community heating, programmer and at least two room thermostats"
+358,Celect-type controls
+359,Room thermostats only
+360,Controls for high heat retention storage heaters
+361,"Flat rate charging, programmer and at least two room thermostats"
+362,No time or thermostatic control of room temp
+363,"Charging system linked to the use of community heating, programmer and TRVs"
+364,
+365,"System dalu wediGÇÖi chysylltu +ó defnyddio gwres cymunedol, rhaglennydd a TRVs"
+366,Rheolyddion i wresogyddion storio sy’n cadw llawer o wres
+367,"T+ól un gyfradd, rhaglennydd a thermostat ystafell"
+368,"Rhaglennydd, TRVs a rheolydd ynni ar y bwyler"
+369,Rhaglennydd a thermostatau ystafell
+370,"Tal un gyfradd, thermostat ystafell yn unig"
+371,"Tâl un gyfradd, rhaglennydd a thermostat ystafell"
+372,Rheolyddion i wresogyddion storio syGÇÖn cadw llawer o wres
+373,Thermostatau ar y cyfarpar
+374,"T+ól un gyfradd, rhaglennydd a TRVs"
+375,"System dalu wedi’i chysylltu â defnyddio gwres cymunedol, rhaglennydd a thermostat ystafell"

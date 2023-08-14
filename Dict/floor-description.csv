@@ -1,0 +1,1248 @@
+,0
+0,"Solid, no insulation (assumed)"
+1,"Suspended, no insulation (assumed)"
+2,Average thermal transmittance 0.17 W/m²K
+3,"Solid, insulated (assumed)"
+4,Average thermal transmittance 0.20 W/m²K
+5,"Solid, limited insulation (assumed)"
+6,(another dwelling below)
+7,Average thermal transmittance 0.13 W/m²K
+8,(other premises below)
+9,Average thermal transmittance 0.16 W/m²K
+10,Average thermal transmittance 0.16 W/m?K
+11,Average thermal transmittance 0.15 W/m-¦K
+12,Average thermal transmittance 0.13 W/m?K
+13,Average thermal transmittance 0.21 W/m²K
+14,Average thermal transmittance 0.19 W/m?K
+15,Average thermal transmittance 0.12 W/m?K
+16,Average thermal transmittance 0.14 W/m?K
+17,Average thermal transmittance 0.26 W/m?K
+18,Average thermal transmittance 0.20 W/m-¦K
+19,Average thermal transmittance 0.22 W/m?K
+20,Average thermal transmittance 0.22 W/m²K
+21,Average thermal transmittance 0.15 W/m²K
+22,Average thermal transmittance 0.21 W/m?K
+23,"Suspended, limited insulation (assumed)"
+24,Average thermal transmittance 0.12 W/m²K
+25,"Suspended, insulated (assumed)"
+26,SAP05:Floor
+27,Average thermal transmittance 0.18 W/m?K
+28,"Solid, insulated"
+29,Average thermal transmittance 0.18 W/m-¦K
+30,Average thermal transmittance 0.23 W/m²K
+31,"To external air, insulated (assumed)"
+32,Average thermal transmittance 0.16 W/m-¦K
+33,Average thermal transmittance 0.18 W/m²K
+34,"To unheated space, no insulation (assumed)"
+35,Average thermal transmittance 0.21 W/m-¦K
+36,Average thermal transmittance 0.12 W/m-¦K
+37,"To external air, insulated"
+38,Average thermal transmittance 0.14 W/m²K
+39,Average thermal transmittance 0.13 W/m-¦K
+40,Average thermal transmittance 0.17 W/m?K
+41,Average thermal transmittance 0.19 W/m²K
+42,"Suspended, insulated"
+43,Average thermal transmittance 0.15 W/m??K
+44,Average thermal transmittance 0.11 W/m-¦K
+45,Average thermal transmittance 0.14 W/m-¦K
+46,"To external air, uninsulated (assumed)"
+47,Average thermal transmittance 0.24 W/m?K
+48,Average thermal transmittance 0.17 W/m-¦K
+49,Average thermal transmittance 0.20 W/m?K
+50,"To external air, limited insulation (assumed)"
+51,Average thermal transmittance 0.25 W/m-¦K
+52,Average thermal transmittance 0.56 W/m?K
+53,Average thermal transmittance 0.21 W/m2K
+54,"To unheated space, limited insulation (assumed)"
+55,Average thermal transmittance 0.72 W/m?K
+56,Average thermal transmittance 0.16 W/m??K
+57,Average thermal transmittance 0.51 W/m²K
+58,limited insulation (assumed)
+59,Average thermal transmittance 0.20 W/m&#0178;K
+60,Average thermal transmittance 0.64 W/m&#0178;K
+61,Average thermal transmittance 0.33 W/m²K
+62,Average thermal transmittance = 0.24 W/m?K
+63,Average thermal transmittance 0.22 W/m-¦K
+64,Average thermal transmittance = 0.26 W/m?K
+65,Average thermal transmittance 0.15 W/m?K
+66,Average thermal transmittance 0.11 W/m²K
+67,"To unheated space,  no insulation (assumed)"
+68,no insulation (assumed)
+69,Average thermal transmittance = 0.19 W/m?K
+70,Average thermal transmittance 0.09 W/m-¦K
+71,Average thermal transmittance 0.30 W/m?K
+72,Average thermal transmittance 0 W/m²K
+73,Average thermal transmittance = 0.16 W/m?K
+74,Average thermal transmittance 0.02 W/m²K
+75,Average thermal transmittance 0.53 W/m?K
+76,Average thermal transmittance 0.49 W/m?K
+77,Average thermal transmittance 0.27 W/m?K
+78,Average thermal transmittance 0.19 W/m&#0178;K
+79,"To unheated space, insulated"
+80,Average thermal transmittance 0.70 W/m?K
+81,Average thermal transmittance = 0.31 W/m?K
+82,Average thermal transmittance 0.31 W/m?K
+83,Average thermal transmittance 0.65 W/m?K
+84,"To unheated space, insulated (assumed)"
+85,Average thermal transmittance 0.69 W/m-¦K
+86,"To external air, no insulation (assumed)"
+87,Average thermal transmittance 0.21 W/m&#0178;K
+88,Average thermal transmittance 0.57 W/m?K
+89,Average thermal transmittance 0.10 W/m²K
+90,Average thermal transmittance 0.29 W/m?K
+91,Average thermal transmittance 0.34 W/m²K
+92,Average thermal transmittance 0.49 W/m&#0178;K
+93,Average thermal transmittance = 0.21 W/m?K
+94,Average thermal transmittance 0.30 W/m-¦K
+95,Average thermal transmittance 0.54 W/m²K
+96,Average thermal transmittance 0.23 W/m?K
+97,Average thermal transmittance 0.18 W/m&#0178;K
+98,Average thermal transmittance 0.42 W/m²K
+99,Average thermal transmittance 0.54 W/m?K
+100,Average thermal transmittance 0.23 W/m-¦K
+101,Average thermal transmittance 0.17 W/m&#0178;K
+102,Average thermal transmittance 0.50 W/m²K
+103,Average thermal transmittance 1.00 W/m?K
+104,Average thermal transmittance 0.08 W/m²K
+105,Average thermal transmittance = 0.15 W/m?K
+106,Average thermal transmittance 0.25 W/m?K
+107,"To unheated space, uninsulated (assumed)"
+108,Average thermal transmittance 0.50 W/m?K
+109,Average thermal transmittance 0.65 W/m&#0178;K
+110,Average thermal transmittance 0.09 W/m²K
+111,Average thermal transmittance 0.40 W/m?K
+112,Average thermal transmittance 0.19 W/m-¦K
+113,Average thermal transmittance 0.34 W/m?K
+114,Average thermal transmittance 0.63 W/m?K
+115,Average thermal transmittance 0.47 W/m?K
+116,Average thermal transmittance 0.11 W/m?K
+117,Average thermal transmittance 0.56 W/m&#0178;K
+118,Average thermal transmittance 0.52 W/m²K
+119,Average thermal transmittance 0.28 W/m²K
+120,Average thermal transmittance 0.46 W/m?K
+121,Average thermal transmittance 0.78 W/m?K
+122,Average thermal transmittance 0.64 W/m?K
+123,Average thermal transmittance 0.27 W/m²K
+124,Average thermal transmittance 0.29 W/m-¦K
+125,Conservatory
+126,Average thermal transmittance 0.25 W/m²K
+127,Average thermal transmittance 0.60 W/m²K
+128,Average thermal transmittance 0.39 W/m&#0178;K
+129,Average thermal transmittance 0.17 W/m??K
+130,Average thermal transmittance 0.24 W/m²K
+131,Average thermal transmittance 0.70 W/m-¦K
+132,Average thermal transmittance 0.21 W/m??K
+133,Average thermal transmittance 0.10 W/m-¦K
+134,Other premises below
+135,"Solet, dim inswleiddio (rhagdybiaeth)"
+136,Average thermal transmittance 0.20 W/m??K
+137,Average thermal transmittance 0.16 W/m2K
+138,Average thermal transmittance 1.20 W/m?K
+139,Average thermal transmittance 0.52 W/m?K
+140,Average thermal transmittance 1.20 W/m²K
+141,Average thermal transmittance = 0.20 W/m?K
+142,Average thermal transmittance 0.59 W/m-¦K
+143,Average thermal transmittance 0.60 W/m&#0178;K
+144,Average thermal transmittance 0.16 W/mÂ²K
+145,Average thermal transmittance = 0.17 W/m?K
+146,(Same dwelling below) insulated (assumed)
+147,Average thermal transmittance 0.21 W/mÂ²K
+148,Average thermal transmittance 0.16 W/mA?K
+149,Average thermal transmittance 0.10 W/m?K
+150,Average thermal transmittance 0.50 W/m&#0178;K
+151,Average thermal transmittance 0.38 W/m²K
+152,Average thermal transmittance 0.47 W/m²K
+153,Average thermal transmittance 0.00 W/m?K
+154,Average thermal transmittance = 0.12 W/m?K
+155,Average thermal transmittance 0.33 W/m&#0178;K
+156,Average thermal transmittance 0.45 W/m?K
+157,Average thermal transmittance 0.12 W/m&#0178;K
+158,Average thermal transmittance = 0.18 W/m?K
+159,Average thermal transmittance 0.37 W/m&#0178;K
+160,Average thermal transmittance 0.34 W/m&#0178;K
+161,Average thermal transmittance 0.63 W/m&#0178;K
+162,Average thermal transmittance 0.35 W/m?K
+163,Average thermal transmittance 0.44 W/m?K
+164,Average thermal transmittance 0.48 W/m?K
+165,Average thermal transmittance 0.11 W/m&#0178;K
+166,Average thermal transmittance 0.33 W/m?K
+167,Average thermal transmittance 0.61 W/m-¦K
+168,Average thermal transmittance 0.40 W/m²K
+169,Average thermal transmittance 0.25 W/m??K
+170,Average thermal transmittance 0.32 W/m?K
+171,Average thermal transmittance 0.26 W/m²K
+172,Average thermal transmittance 0.18 W/mA?K
+173,Average thermal transmittance 0.27 W/m-¦K
+174,Average thermal transmittance 0.36 W/m²K
+175,Average thermal transmittance 0.47 W/m-¦K
+176,Average thermal transmittance 0.1 W/m²K
+177,Average thermal transmittance 0.12 W/m??K|Trawsyriannedd thermol cyfartalog 0.12 W/m??K
+178,Average thermal transmittance 0.12 W/mA?K
+179,Average thermal transmittance 0.2 W/m²K
+180,Average thermal transmittance 0.24 W/m-¦K
+181,Average thermal transmittance 0.17 W/m2K
+182,(other premises below)|(eiddo arall islaw)
+183,Average thermal transmittance 0.79 W/m?K
+184,
+185,Average thermal transmittance 0.33 W/m-¦K
+186,", no insulation (assumed)"
+187,Average thermal transmittance 0.37 W/m?K
+188,Average thermal transmittance 0.14 W/m??K
+189,Average thermal transmittance 0.07 W/m²K
+190,Average thermal transmittance 0.14 W/m&#0178;K
+191,Average thermal transmittance 0.16 W/m&#0178;K
+192,Average thermal transmittance 0.36 W/m&#0178;K
+193,Average thermal transmittance 0.18 W/m??K
+194,Average thermal transmittance 0.15 W/m2K
+195,Average thermal transmittance = 0.29 W/m?K
+196,Average thermal transmittance 0.48 W/m&#0178;K
+197,Average thermal transmittance 0.74 W/m²K
+198,Average thermal transmittance 0.92 W/m²K
+199,Average thermal transmittance = 0.25 W/m?K
+200,Average thermal transmittance 0.01 W/m?K
+201,Average thermal transmittance 0.53 W/m&#0178;K
+202,Average thermal transmittance = 0.22 W/m?K
+203,insulated (assumed)
+204,Average thermal transmittance 0.25 W/m&#0178;K
+205,Average thermal transmittance 0.22 W/m2K
+206,Average thermal transmittance 0.25 W/m2K
+207,Average thermal transmittance 0.22 W/m&#0178;K
+208,Average thermal transmittance 0.24 W/m&#0178;K
+209,Average thermal transmittance 0.13 W/m&#0178;K
+210,Average thermal transmittance 0.29 W/m²K
+211,Average thermal transmittance 0.43 W/m?K
+212,Average thermal transmittance 0.30 W/m&#0178;K
+213,Average thermal transmittance = 0.14 W/m?K
+214,Average thermal transmittance 0.21 W/m??K|Trawsyriannedd thermol cyfartalog 0.21 W/m??K
+215,Average thermal transmittance 0.31 W/m&#0178;K
+216,Average thermal transmittance 0.42 W/m?K
+217,Average thermal transmittance 0.51 W/m?K
+218,Average thermal transmittance 0.20 W/m2K
+219,Average thermal transmittance 0.34 W/m-¦K
+220,Average thermal transmittance 0.83 W/m-¦K
+221,Average thermal transmittance 0.12 W/m??K
+222,Average thermal transmittance 0.23 W/m&#0178;K
+223,Average thermal transmittance = 0.28 W/m?K
+224,Average thermal transmittance 0.61 W/m?K
+225,Average thermal transmittance 0.28 W/m&#0178;K
+226,Average thermal transmittance = 0.23 W/m?K
+227,Average thermal transmittance 0.54 W/m&#0178;K
+228,Average thermal transmittance 1.00 W/m²K
+229,Average thermal transmittance 0.77 W/m-¦K
+230,Average thermal transmittance 0.22 W/m??K
+231,Average thermal transmittance 0.17 W/m??K|Trawsyriannedd thermol cyfartalog 0.17 W/m??K
+232,Average thermal transmittance 0.63 W/m²K
+233,Average thermal transmittance 0.41 W/m-¦K
+234,Average thermal transmittance 0.98 W/m²K
+235,Average thermal transmittance 0.03 W/m?K
+236,Average thermal transmittance 0.59 W/m?K
+237,Average thermal transmittance 0.59 W/m&#0178;K
+238,Average thermal transmittance 0.14 W/mÂ²K
+239,Average thermal transmittance 0.09 W/m?K
+240,Average thermal transmittance 0.18 W/mÂ²K
+241,Average thermal transmittance 0.08 W/m?K
+242,Average thermal transmittance 0.32 W/m-¦K
+243,Average thermal transmittance 0.32 W/m&#0178;K
+244,Average thermal transmittance 0.49 W/m²K
+245,Average thermal transmittance 0.50 W/m-¦K
+246,Average thermal transmittance 0.70 W/m²K
+247,Average thermal transmittance 0.35 W/m&#0178;K
+248,Average thermal transmittance 0.36 W/m?K
+249,Average thermal transmittance 0.63 W/m-¦K
+250,Average thermal transmittance 0.15 W/m&#0178;K
+251,Average thermal transmittance 0.28 W/m?K
+252,Average thermal transmittance 0.83 W/m²K
+253,Average thermal transmittance 0.88 W/m-¦K
+254,Average thermal transmittance 0.24 W/m??K|Trawsyriannedd thermol cyfartalog 0.24 W/m??K
+255,Average thermal transmittance = 0.27 W/m?K
+256,Average thermal transmittance 0.87 W/m²K
+257,Average thermal transmittance 0.30 W/m²K
+258,Average thermal transmittance 0.26 W/m&#0178;K
+259,"Crog, dim inswleiddio (rhagdybiaeth)"
+260,Average thermal transmittance 0.58 W/m²K
+261,Average thermal transmittance = 0.30 W/m?K
+262,Average thermal transmittance 0.22 W/m??K|Trawsyriannedd thermol cyfartalog 0.22 W/m??K
+263,Average thermal transmittance 0.57 W/m-¦K
+264,Average thermal transmittance = 0.59 W/m?K
+265,Average thermal transmittance 0.53 W/m-¦K
+266,Average thermal transmittance 0.05 W/m?K
+267,Average thermal transmittance 0.23 W/m2K
+268,Average thermal transmittance = 0.48 W/m?K
+269,Average thermal transmittance 0.72 W/m²K
+270,Average thermal transmittance 2.94 W/m²K
+271,Average thermal transmittance = 0.38 W/m?K
+272,Average thermal transmittance = 0.40 W/m?K
+273,Average thermal transmittance 0.39 W/m?K
+274,Average thermal transmittance 0.66 W/m²K
+275,Average thermal transmittance 0.45 W/m²K
+276,"Solid,"
+277,Average thermal transmittance 0.46 W/m²K
+278,Average thermal transmittance 0.90 W/m?K
+279,Average thermal transmittance 0.41 W/m²K
+280,Average thermal transmittance 0.59 W/m²K
+281,Average thermal transmittance = 0.39 W/m?K
+282,Average thermal transmittance 0.20 W/m??K|Trawsyriannedd thermol cyfartalog 0.20 W/m??K
+283,Average thermal transmittance 0.2 W/m?K
+284,Average thermal transmittance 0.81 W/m²K
+285,Average thermal transmittance 0.38 W/m-¦K
+286,Average thermal transmittance 0.68 W/m²K
+287,Average thermal transmittance 0.56 W/m²K
+288,Average thermal transmittance 0.38 W/m?K
+289,Average thermal transmittance = 0.41 W/m?K
+290,Average thermal transmittance 1.85 W/m?K
+291,Average thermal transmittance = 0.35 W/m?K
+292,Average thermal transmittance 0.99 W/m²K
+293,Average thermal transmittance 0.32 W/m²K
+294,Average thermal transmittance 0.58 W/m-¦K
+295,Average thermal transmittance 0.23 W/m??K|Trawsyriannedd thermol cyfartalog 0.23 W/m??K
+296,Average thermal transmittance 1.20 W/m-¦K
+297,Average thermal transmittance 0.61 W/m²K
+298,Average thermal transmittance 0.55 W/m²K
+299,Average thermal transmittance 0.48 W/m-¦K
+300,Average thermal transmittance 0.43 W/m²K
+301,Average thermal transmittance 0.77 W/m?K
+302,Average thermal transmittance 0.65 W/m²K
+303,Average thermal transmittance 0.57 W/m²K
+304,Average thermal transmittance 0.31 W/m²K
+305,Average thermal transmittance 0.20 W/m?K|Trawsyriannedd thermol cyfartalog 0.20 W/m?K
+306,Average thermal transmittance 0.04 W/m?K
+307,Average thermal transmittance 0.02 W/m?K
+308,Average thermal transmittance 1.21 W/m²K
+309,Average thermal transmittance 0.37 W/m²K
+310,Average thermal transmittance 0.64 W/m-¦K
+311,Average thermal transmittance 1.23 W/m²K
+312,Average thermal transmittance 0.12 W/mÂ²K
+313,Average thermal transmittance 0.45 W/m-¦K
+314,Average thermal transmittance 0.84 W/m-¦K
+315,Average thermal transmittance 0.05 W/m²K
+316,Average thermal transmittance 0.60 W/m-¦K
+317,Average thermal transmittance 0.62 W/m?K
+318,Average thermal transmittance 0.06 W/m-¦K
+319,Average thermal transmittance 0.41 W/m?K
+320,Average thermal transmittance = 0.33 W/m?K
+321,Average thermal transmittance 0.19 W/m2K
+322,Average thermal transmittance 1.11 W/m²K
+323,Average thermal transmittance 0.70 W/mÂ²K
+324,Average thermal transmittance 0.19 W/m??K
+325,Average thermal transmittance 0.24 W/m2K
+326,Average thermal transmittance = 0.36 W/m?K
+327,Average thermal transmittance 0.19 W/mÂ²K
+328,Average thermal transmittance 0.82 W/m²K
+329,Average thermal transmittance 0.06 W/m²K
+330,Average thermal transmittance 2.13 W/m²K
+331,Average thermal transmittance 0.09 W/mÂ²K
+332,Average thermal transmittance 0.55 W/m-¦K
+333,Average thermal transmittance 0.37 W/m-¦K
+334,Average thermal transmittance 0.35 W/m²K
+335,Average thermal transmittance 0.45 W/mÂ²K
+336,Average thermal transmittance 0.26 W/m-¦K
+337,Average thermal transmittance 0.29 W/mÂ²K
+338,Average thermal transmittance 0.66 W/mÂ²K
+339,Average thermal transmittance 0.77 W/m²K
+340,Average thermal transmittance 0.86 W/m²K
+341,Average thermal transmittance 0.15 W/mÂ²K
+342,Average thermal transmittance 0.67 W/m²K
+343,Average thermal transmittance 0.11 W/mÂ²K
+344,Average thermal transmittance = 0.06 W/m?K
+345,Average thermal transmittance 0.23 W/mÂ²K
+346,"To unheated space,  insulated (assumed)"
+347,Average thermal transmittance 0.38 W/m&#0178;K
+348,Average thermal transmittance 0.83 W/mÂ²K
+349,Average thermal transmittance 1.34 W/m²K
+350,Average thermal transmittance 0.18 W/m??K|Trawsyriannedd thermol cyfartalog 0.18 W/m??K
+351,Average thermal transmittance 0.48 W/m²K
+352,Average thermal transmittance 0.20 W/mÂ²K
+353,"To unheated space,"
+354,Average thermal transmittance 0.17 W/mÂ²K
+355,Average thermal transmittance 0.42 W/mÂ²K
+356,Average thermal transmittance 0.07 W/mÂ²K
+357,Average thermal transmittance 0.51 W/m-¦K
+358,Average thermal transmittance 0.20 W/mA?K
+359,Average thermal transmittance 0.13 W/mA?K
+360,Average thermal transmittance 0.25 W/mÂ²K
+361,Average thermal transmittance = 0.13 W/m?K
+362,Average thermal transmittance 0.13 W/mÂ²K
+363,Average thermal transmittance 0.53 W/m²K
+364,Average thermal transmittance 0.39 W/m²K
+365,Average thermal transmittance 0.67 W/m?K
+366,Average thermal transmittance = 0.76 W/m?K
+367,Average thermal transmittance 0.28 W/m-¦K
+368,Average thermal transmittance 0.25 W/m??K|Trawsyriannedd thermol cyfartalog 0.25 W/m??K
+369,Average thermal transmittance 0.60 W/m?K
+370,Average thermal transmittance 0.44 W/m-¦K
+371,Average thermal transmittance 0.66 W/m?K
+372,Average thermal transmittance 0.73 W/m-¦K
+373,Average thermal transmittance 0.78 W/m²K
+374,Average thermal transmittance 0.14 W/mA?K
+375,Average thermal transmittance 0.75 W/m?K
+376,Average thermal transmittance 0.10 W/mÂ²K
+377,Average thermal transmittance 0.81 W/m?K
+378,Average thermal transmittance 0.17 W/mA?K
+379,Average thermal transmittance 1.83 W/m²K
+380,Average thermal transmittance 0.44 W/m²K
+381,Average thermal transmittance 0.39 W/m-¦K
+382,Average thermal transmittance 0.08 W/m-¦K
+383,Average thermal transmittance 1.28 W/m²K
+384,Average thermal transmittance 0.85 W/m²K
+385,Average thermal transmittance 0.45 W/m&#0178;K
+386,Average thermal transmittance 0.19 W/m??K|Trawsyriannedd thermol cyfartalog 0.19 W/m??K
+387,Average thermal transmittance 0.26 W/m??K
+388,Average thermal transmittance 0.15 W/mA?K
+389,Average thermal transmittance 0.13 W/m??K
+390,Average thermal transmittance 0.26 W/m??K|Trawsyriannedd thermol cyfartalog 0.26 W/m??K
+391,Average thermal transmittance 0.22 W/mA?K
+392,Average thermal transmittance 0.23 W/m??K
+393,Average thermal transmittance 0.46 W/mÂ²K
+394,Average thermal transmittance 0.21 W/mA?K
+395,Average thermal transmittance = 0.55 W/m?K
+396,Average thermal transmittance 0.24 W/m??K
+397,Average thermal transmittance 0.43 W/m-¦K
+398,Average thermal transmittance 0.22 W/mÂ²K
+399,Average thermal transmittance 0.24 W/mA?K
+400,Average thermal transmittance 0.34 W/mA?K
+401,Average thermal transmittance 0.24 W/mÂ²K
+402,Average thermal transmittance 0.06 W/m?K
+403,Average thermal transmittance 0.75 W/m²K
+404,Average thermal transmittance 1.93 W/m²K
+405,Average thermal transmittance 0.43 W/m2K
+406,Average thermal transmittance 1.12 W/m²K
+407,Average thermal transmittance 0.23 W/mA?K
+408,Average thermal transmittance 0.19 W/mA?K
+409,Average thermal transmittance 0.42 W/m-¦K
+410,Average thermal transmittance 0.07 W/m?K
+411,Average thermal transmittance 0.40 W/m-¦K
+412,Average thermal transmittance 1.11 W/m?K
+413,Average thermal transmittance 0.36 W/m??K
+414,Average thermal transmittance 0.85 W/m?K
+415,Average thermal transmittance 0.64 W/m²K
+416,Average thermal transmittance 0.90 W/mÂ²K
+417,Average thermal transmittance 0.16 W/m??K|Trawsyriannedd thermol cyfartalog 0.16 W/m??K
+418,Average thermal transmittance 1.66 W/m?K
+419,Average thermal transmittance 0.62 W/m-¦K
+420,Average thermal transmittance 0.71 W/m-¦K
+421,Average thermal transmittance 0.30 W/m??K|Trawsyriannedd thermol cyfartalog 0.30 W/m??K
+422,Average thermal transmittance 0.31 W/m-¦K
+423,Average thermal transmittance 0.49 W/mÂ²K
+424,Average thermal transmittance 0.62 W/m²K
+425,", insulated (assumed)"
+426,Average thermal transmittance 1.55 W/m²K
+427,Average thermal transmittance = 1.20 W/m?K
+428,Average thermal transmittance 1.25 W/m²K
+429,Average thermal transmittance 0 W/m?K
+430,Average thermal transmittance 0.25 W/mA?K
+431,Average thermal transmittance = -4.05 W/m?K
+432,Average thermal transmittance 0.18 W/m2K
+433,Trawsyriannedd thermol cyfartalog 0.14 W/m-¦K
+434,Average thermal transmittance 0.95 W/m-¦K
+435,Average thermal transmittance 0.35 W/m-¦K
+436,Average thermal transmittance 1.10 W/m²K
+437,Average thermal transmittance 0.58 W/mÂ²K
+438,Average thermal transmittance 0.76 W/m²K
+439,Average thermal transmittance 1.10 W/m?K
+440,", limited insulation (assumed)"
+441,Average thermal transmittance 0.11 W/mA?K
+442,Average thermal transmittance 0.1 W/m?K
+443,Average thermal transmittance 0.30 W/mÂ²K
+444,Average thermal transmittance 0.64 W/mÂ²K
+445,Average thermal transmittance 0.07 W/m-¦K
+446,Average thermal transmittance 0.60 W/mÂ²K
+447,Average thermal transmittance 0.17 W/m?K|Trawsyriannedd thermol cyfartalog 0.17 W/m?K
+448,Average thermal transmittance 0.36 W/m-¦K
+449,Average thermal transmittance 0.11 W/m??K
+450,Average thermal transmittance 0.80 W/m²K
+451,Average thermal transmittance 1.27 W/m²K
+452,Average thermal transmittance 0.67 W/m-¦K
+453,Average thermal transmittance 0.03 W/m²K
+454,Average thermal transmittance 0.71 W/m²K
+455,Average thermal transmittance 0.69 W/m²K
+456,Average thermal transmittance 0.46 W/m-¦K
+457,Average thermal transmittance 1.17 W/m-¦K
+458,Average thermal transmittance 0.55 W/m?K
+459,Average thermal transmittance 1.63 W/m²K
+460,Average thermal transmittance 2.60 W/m²K
+461,Average thermal transmittance 1.40 W/m&#0178;K
+462,Average thermal transmittance 0.65 W/m-¦K
+463,Average thermal transmittance 0.56 W/m-¦K
+464,Average thermal transmittance 0.29 W/m&#0178;K
+465,Average thermal transmittance 0.93 W/m?K
+466,Average thermal transmittance 0.71 W/m&#0178;K
+467,Average thermal transmittance 0.90 W/m²K
+468,Average thermal transmittance 1.03 W/m²K
+469,Average thermal transmittance = 0.10 W/m?K
+470,Average thermal transmittance = 0.42 W/m?K
+471,Average thermal transmittance = 0.03 W/m?K
+472,Average thermal transmittance 0.27 W/m&#0178;K
+473,"Solid,  insulated (assumed)"
+474,Average thermal transmittance 0.05 W/m-¦K
+475,Average thermal transmittance 1.22 W/m²K
+476,Average thermal transmittance 0.91 W/m²K
+477,Average thermal transmittance 0.09 W/m??K
+478,Average thermal transmittance 0.75 W/m-¦K
+479,Average thermal transmittance 0.84 W/m²K
+480,Average thermal transmittance 0.12 W/m?K|Trawsyriannedd thermol cyfartalog 0.12 W/m?K
+481,Average thermal transmittance 0.14 W/m??K|Trawsyriannedd thermol cyfartalog 0.14 W/m??K
+482,Average thermal transmittance 1.00 W/m-¦K
+483,Average thermal transmittance 0.21 W/m?K|Trawsyriannedd thermol cyfartalog 0.21 W/m?K
+484,Average thermal transmittance 0.30 W/m2K
+485,Average thermal transmittance 1.35 W/m²K
+486,Average thermal transmittance 0.15 W/m?K|Trawsyriannedd thermol cyfartalog 0.15 W/m?K
+487,Average thermal transmittance 1.25 W/m?K
+488,Average thermal transmittance 0.69 W/m?K
+489,Average thermal transmittance 0.15 W/m??K|Trawsyriannedd thermol cyfartalog 0.15 W/m??K
+490,Average thermal transmittance 0.92 W/m-¦K
+491,Average thermal transmittance 1.14 W/m-¦K
+492,Average thermal transmittance 0.62 W/mA?K
+493,Average thermal transmittance 0.26 W/mÂ²K
+494,Average thermal transmittance 0.54 W/mÂ²K
+495,Average thermal transmittance 0.52 W/m-¦K
+496,Average thermal transmittance 0.87 W/m?K
+497,Average thermal transmittance 0.98 W/m-¦K
+498,Average thermal transmittance 0.3 W/m?K
+499,Average thermal transmittance = 0.02 W/m?K
+500,Average thermal transmittance 0.80 W/m?K
+501,Average thermal transmittance 0.73 W/m?K
+502,Average thermal transmittance 0.12 W/m2K
+503,Average thermal transmittance 1.24 W/m²K
+504,Average thermal transmittance 0.03 W/m-¦K
+505,Average thermal transmittance 0.8 W/m²K
+506,Average thermal transmittance 0.97 W/m??K
+507,Average thermal transmittance 0.89 W/m?K
+508,Average thermal transmittance 0.96 W/m-¦K
+509,Average thermal transmittance 0.93 W/m²K
+510,Average thermal transmittance 0.71 W/m?K
+511,Average thermal transmittance 0.32 W/mÂ²K
+512,Average thermal transmittance 0.3 W/m²K
+513,Average thermal transmittance 0.94 W/m²K
+514,Average thermal transmittance = 0.79 W/m?K
+515,Average thermal transmittance 0.68 W/m-¦K
+516,Average thermal transmittance 0.78 W/m-¦K
+517,Average thermal transmittance 0.16 W/m?K|Trawsyriannedd thermol cyfartalog 0.16 W/m?K
+518,Average thermal transmittance 2.14 W/m-¦K
+519,Average thermal transmittance 0.73 W/m²K
+520,Average thermal transmittance 1.29 W/m²K
+521,Average thermal transmittance 0.96 W/m²K
+522,Average thermal transmittance = 0.05 W/m?K
+523,Average thermal transmittance 0.88 W/m²K
+524,Average thermal transmittance 0.10 W/mA?K
+525,"Suspended,  insulated (assumed)"
+526,Average thermal transmittance 0.28 W/m2K
+527,Average thermal transmittance 0.10 W/m??K
+528,Average thermal transmittance 0.13 W/m2K
+529,Average thermal transmittance = 0.52 W/m?K
+530,Average thermal transmittance 1.05 W/m?K
+531,Average thermal transmittance 2.70 W/m?K
+532,Average thermal transmittance 0.70 W/m??K
+533,Average thermal transmittance 0.43 W/m&#0178;K
+534,Average thermal transmittance 0.85 W/m&#0178;K
+535,Average thermal transmittance = 0.32 W/m?K
+536,Average thermal transmittance -0.57 W/m?K
+537,"Suspended,"
+538,Average thermal transmittance = 0.37 W/m?K
+539,Average thermal transmittance 0.67 W/mÂ²K
+540,Average thermal transmittance 1.30 W/m?K
+541,Average thermal transmittance 1.50 W/m²K
+542,Average thermal transmittance 0.14 W/m2K
+543,Average thermal transmittance 1.20 W/m??K
+544,Average thermal transmittance 0.71 W/mÂ²K
+545,Average thermal transmittance 0.04 W/m-¦K
+546,Average thermal transmittance 0.49 W/m-¦K
+547,Average thermal transmittance 1.15 W/m-¦K
+548,Average thermal transmittance 1.20 W/mÂ²K
+549,Average thermal transmittance 1.08 W/m²K
+550,Average thermal transmittance 0.97 W/m²K
+551,Average thermal transmittance 0.51 W/m&#0178;K
+552,Average thermal transmittance = 0.74 W/m?K
+553,Average thermal transmittance 0.54 W/m-¦K
+554,Average thermal transmittance = 0.34 W/m?K
+555,Average thermal transmittance 0.63 W/mÂ²K
+556,Average thermal transmittance 1.10 W/m-¦K
+557,"Solet, wedi?i inswleiddio (rhagdybiaeth)"
+558,Average thermal transmittance 0.66 W/m&#0178;K
+559,Average thermal transmittance 0.67 W/m&#0178;K
+560,Average thermal transmittance 1.13 W/m-¦K
+561,Average thermal transmittance 0.68 W/m?K
+562,Average thermal transmittance 0.50 W/mÂ²K
+563,Average thermal transmittance 1.50 W/m?K
+564,Average thermal transmittance 0.08 W/mÂ²K
+565,Average thermal transmittance 1.38 W/m-¦K
+566,Average thermal transmittance 2.48 W/m²K
+567,Average thermal transmittance 0.27 W/mÂ²K
+568,Average thermal transmittance 0.33 W/mÂ²K
+569,Average thermal transmittance 0.34 W/mÂ²K
+570,Average thermal transmittance 0.98 W/m?K
+571,Average thermal transmittance = 0.71 W/m?K
+572,Average thermal transmittance 1.60 W/mÂ²K
+573,Average thermal transmittance 0.72 W/m-¦K
+574,Average thermal transmittance 1.54 W/m-¦K
+575,Average thermal transmittance 0.81 W/m-¦K
+576,Average thermal transmittance 1.41 W/m²K
+577,Average thermal transmittance 2.79 W/m²K
+578,Average thermal transmittance 0.58 W/m?K
+579,Average thermal transmittance = 0.04 W/m?K
+580,Average thermal transmittance 0.96 W/m?K
+581,Average thermal transmittance 0.95 W/m²K
+582,Average thermal transmittance 2.08 W/m?K
+583,Average thermal transmittance 2.75 W/m²K
+584,Average thermal transmittance 0.38 W/m2K
+585,Average thermal transmittance 1.07 W/m²K
+586,Average thermal transmittance 1.48 W/m²K
+587,Average thermal transmittance 0.42 W/m&#0178;K
+588,Average thermal transmittance 1.33 W/m²K
+589,Average thermal transmittance 0.38 W/mA?K
+590,Average thermal transmittance 0.95 W/m?K
+591,Trawsyriannedd thermol cyfartalog 0.17 W/m²K
+592,Average thermal transmittance 1.07 W/m-¦K
+593,Average thermal transmittance -0.09 W/m?K
+594,Average thermal transmittance 0.10 W/m??K|Trawsyriannedd thermol cyfartalog 0.10 W/m??K
+595,Average thermal transmittance 0.59 W/mÂ²K
+596,Average thermal transmittance 0.80 W/mÂ²K
+597,Average thermal transmittance = 0.53 W/m?K
+598,Average thermal transmittance 0.76 W/m?K
+599,Average thermal transmittance = 0.07 W/m?K
+600,Average thermal transmittance 1.16 W/m-¦K
+601,Average thermal transmittance = 0.58 W/m?K
+602,Average thermal transmittance 1.04 W/m²K
+603,Average thermal transmittance 0.22 W/m?K|Trawsyriannedd thermol cyfartalog 0.22 W/m?K
+604,Average thermal transmittance 0.64 W/mA?K
+605,Average thermal transmittance 0.83 W/mA?K
+606,Average thermal transmittance 0.35 W/mÂ²K
+607,Average thermal transmittance 0.38 W/mÂ²K
+608,Average thermal transmittance 0.04 W/m²K
+609,Average thermal transmittance 0.52 W/mÂ²K
+610,Average thermal transmittance 1.12 W/m-¦K
+611,Average thermal transmittance 1.02 W/m?K
+612,Average thermal transmittance = 0.01 W/m?K
+613,Average thermal transmittance = 0.92 W/m?K
+614,insulated
+615,Average thermal transmittance 0.74 W/m?K
+616,Average thermal transmittance 0.78 W/mÂ²K
+617,Average thermal transmittance 1.33 W/m-¦K
+618,Average thermal transmittance 0.01 W/m²K
+619,Average thermal transmittance 1.02 W/m²K
+620,Average thermal transmittance = 0.63 W/m?K
+621,Average thermal transmittance 2.30 W/m²K
+622,Average thermal transmittance 1.18 W/m²K
+623,Average thermal transmittance 0.66 W/m-¦K
+624,Average thermal transmittance 0.65 W/mÂ²K
+625,Average thermal transmittance 0.86 W/m-¦K
+626,(eiddo arall islaw)
+627,Average thermal transmittance 0.00 W/m??K
+628,Average thermal transmittance 0.13 W/m??K|Trawsyriannedd thermol cyfartalog 0.13 W/m??K
+629,Average thermal transmittance 0.11 W/m2K
+630,Average thermal transmittance 0.01 W/m&#0178;K
+631,Average thermal transmittance 2.08 W/m²K
+632,Average thermal transmittance 1.69 W/m²K
+633,Average thermal transmittance 1.24 W/m-¦K
+634,Average thermal transmittance 3.53 W/m?K
+635,Average thermal transmittance 1.07 W/m?K
+636,Average thermal transmittance 0.89 W/m²K
+637,Average thermal transmittance 0.7 W/m²K
+638,Average thermal transmittance 0.41 W/mÂ²K
+639,Average thermal transmittance 0.26 W/m2K
+640,Average thermal transmittance = 0.46 W/m?K
+641,Average thermal transmittance 2.00 W/m²K
+642,Average thermal transmittance 0.82 W/m?K
+643,Average thermal transmittance 0.44 W/m&#0178;K
+644,Average thermal transmittance 3.52 W/m²K
+645,Average thermal transmittance 1.27 W/m?K
+646,Average thermal transmittance 0.85 W/m-¦K
+647,Average thermal transmittance 0.84 W/m?K
+648,Average thermal transmittance = 0.11 W/m?K
+649,Average thermal transmittance 0.40 W/m&#0178;K
+650,Average thermal transmittance = 0.73 W/m?K
+651,Average thermal transmittance = 0.72 W/m?K
+652,Average thermal transmittance 0.73 W/m2K
+653,Average thermal transmittance 0.43 W/mÂ²K
+654,Average thermal transmittance 0.51 W/mÂ²K
+655,Average thermal transmittance 0.79 W/m²K
+656,Average thermal transmittance 0.02 W/m-¦K
+657,Average thermal transmittance 0.19 W/m?K|Trawsyriannedd thermol cyfartalog 0.19 W/m?K
+658,Average thermal transmittance 0.83 W/m?K
+659,Average thermal transmittance 0.70 W/mA?K
+660,Average thermal transmittance 1.06 W/m?K
+661,Average thermal transmittance = 0.47 W/m?K
+662,Average thermal transmittance 0.11 W/m?K|Trawsyriannedd thermol cyfartalog 0.11 W/m?K
+663,Average thermal transmittance 0.23 W/m?K|Trawsyriannedd thermol cyfartalog 0.23 W/m?K
+664,Average thermal transmittance 1.79 W/m²K
+665,Average thermal transmittance = -3.55 W/m?K
+666,Average thermal transmittance 1.03 W/m-¦K
+667,Average thermal transmittance 0.73 W/mÂ²K
+668,Average thermal transmittance = 0.57 W/m?K
+669,Average thermal transmittance = 1.13 W/m?K
+670,Average thermal transmittance 1.31 W/m?K
+671,Average thermal transmittance 0.07 W/m??K
+672,Average thermal transmittance 0.74 W/m-¦K
+673,Average thermal transmittance = 0.56 W/m?K
+674,Average thermal transmittance = 0.75 W/m?K
+675,Average thermal transmittance 1.60 W/m-¦K
+676,Average thermal transmittance 0.89 W/m-¦K
+677,Average thermal transmittance 0.68 W/mÂ²K
+678,Above unheated space
+679,Average thermal transmittance 0.26 W/mA?K
+680,Average thermal transmittance 1.73 W/m²K
+681,(anheddiad arall islaw)
+682,Average thermal transmittance 0.55 W/mÂ²K
+683,Average thermal transmittance 0.69 W/m??K
+684,Average thermal transmittance 1.60 W/m²K
+685,Average thermal transmittance 1.01 W/m²K
+686,Average thermal transmittance 1.12 W/m?K
+687,Average thermal transmittance 1.06 W/m²K
+688,Average thermal transmittance -0.29 W/m?K
+689,Average thermal transmittance 1.38 W/m?K
+690,Average thermal transmittance 1.39 W/m-¦K
+691,Average thermal transmittance = 1.04 W/m?K
+692,Average thermal transmittance 1.09 W/m-¦K
+693,Average thermal transmittance 0.57 W/m&#0178;K
+694,Average thermal transmittance -0.77 W/m?K
+695,Average thermal transmittance = 0.86 W/m?K
+696,Average thermal transmittance 0.92 W/m?K
+697,Average thermal transmittance 0.43 W/m??K
+698,Average thermal transmittance 0.35 W/mA?K
+699,Average thermal transmittance 1.10 W/m??K
+700,Average thermal transmittance 0.76 W/m-¦K
+701,Average thermal transmittance 0.45 W/m??K|Trawsyriannedd thermol cyfartalog 0.45 W/m??K
+702,Average thermal transmittance 0.08 W/m??K
+703,Average thermal transmittance 0.08 W/m??K|Trawsyriannedd thermol cyfartalog 0.08 W/m??K
+704,Average thermal transmittance 1.09 W/m?K
+705,Average thermal transmittance 0.31 W/mA?K
+706,Average thermal transmittance 0.99 W/m?K
+707,Average thermal transmittance 1.26 W/m??K
+708,Average thermal transmittance 0.45 W/m2K
+709,Average thermal transmittance 0.34 W/m2K
+710,Average thermal transmittance 1.08 W/m?K
+711,Average thermal transmittance 0.18 W/m?K|Trawsyriannedd thermol cyfartalog 0.18 W/m?K
+712,Average thermal transmittance 0.27 W/m2K
+713,Average thermal transmittance 0.29 W/m??K
+714,Average thermal transmittance 0.36 W/mÂ²K
+715,Average thermal transmittance 1.77 W/m²K
+716,Average thermal transmittance 0.50 W/m??K
+717,Average thermal transmittance 0.06 W/mÂ²K
+718,Average thermal transmittance = 0.70 W/m?K
+719,Average thermal transmittance = 0.45 W/m?K
+720,Average thermal transmittance 0.31 W/mÂ²K
+721,Average thermal transmittance 0.05 W/mÂ²K
+722,Average thermal transmittance 0.80 W/m-¦K
+723,Average thermal transmittance = 1.10 W/m?K
+724,Average thermal transmittance = 0.51 W/m?K
+725,Average thermal transmittance 0.10 W/m?K|Trawsyriannedd thermol cyfartalog 0.10 W/m?K
+726,Average thermal transmittance 1.60 W/m?K
+727,Average thermal transmittance -1.96 W/m?K
+728,Average thermal transmittance = 0.44 W/m?K
+729,Average thermal transmittance 3.00 W/m?K
+730,Average thermal transmittance 0.57 W/mÂ²K
+731,Average thermal transmittance 0.07 W/m??K|Trawsyriannedd thermol cyfartalog 0.07 W/m??K
+732,Average thermal transmittance = 0.43 W/m?K
+733,Average thermal transmittance 0.30 W/m?K|Trawsyriannedd thermol cyfartalog 0.30 W/m?K
+734,Average thermal transmittance 0.25 W/m?K|Trawsyriannedd thermol cyfartalog 0.25 W/m?K
+735,Average thermal transmittance 0.51 W/mA?K
+736,Average thermal transmittance 0.24 W/m?K|Trawsyriannedd thermol cyfartalog 0.24 W/m?K
+737,Average thermal transmittance 0.56 W/mÂ²K
+738,Average thermal transmittance 1.20 W/mA?K
+739,Average thermal transmittance 1.44 W/mÂ²K
+740,Average thermal transmittance 0.28 W/mÂ²K
+741,Average thermal transmittance 1.27 W/mÂ²K
+742,Average thermal transmittance 1.06 W/m-¦K
+743,Average thermal transmittance 0.76 W/mÂ²K
+744,Average thermal transmittance 0.94 W/m?K
+745,Average thermal transmittance = 1.24 W/m?K
+746,Average thermal transmittance = -0.48 W/m?K
+747,Average thermal transmittance 0.61 W/m&#0178;K
+748,Average thermal transmittance 0.35 W/m??K
+749,Average thermal transmittance 0.79 W/m-¦K
+750,Average thermal transmittance 0.53 W/mÂ²K
+751,Average thermal transmittance 0.74 W/mÂ²K
+752,Average thermal transmittance 1.55 W/m-¦K
+753,Average thermal transmittance 2.09 W/m²K
+754,Average thermal transmittance 0.88 W/m?K
+755,Average thermal transmittance 0.91 W/m-¦K
+756,Average thermal transmittance 1.56 W/m?K
+757,Average thermal transmittance 1.03 W/m?K
+758,Average thermal transmittance 3.05 W/m?K
+759,Average thermal transmittance 1.15 W/m²K
+760,Average thermal transmittance 0.120 W/m²K
+761,Average thermal transmittance 0.07 W/mA?K
+762,Average thermal transmittance 0.200 W/m²K
+763,Average thermal transmittance 1.01 W/m?K
+764,Average thermal transmittance 0.30 W/mA?K
+765,Average thermal transmittance 0.83 W/m&#0178;K
+766,Average thermal transmittance 0.91 W/m?K
+767,Average thermal transmittance 1.21 W/m-¦K
+768,Average thermal transmittance = 0.83 W/m?K
+769,Average thermal transmittance 2.71 W/m²K
+770,Trawsyriannedd thermol cyfartalog 0.15 W/mÂ²K
+771,Average thermal transmittance 0.62 W/mÂ²K
+772,Average thermal transmittance 2.08 W/m-¦K
+773,Average thermal transmittance 1.17 W/m?K
+774,Average thermal transmittance 0.09 W/m&#0178;K
+775,Average thermal transmittance 1.84 W/m-¦K
+776,Average thermal transmittance 2.10 W/m²K
+777,Average thermal transmittance 0.97 W/m?K
+778,Average thermal transmittance 0.37 W/mÂ²K
+779,Average thermal transmittance 0.79 W/mÂ²K
+780,Average thermal transmittance 1.30 W/m²K
+781,Average thermal transmittance 1.2 W/m?K
+782,Average thermal transmittance 0.39 W/mÂ²K
+783,Average thermal transmittance 0.38 W/m??K
+784,Average thermal transmittance 0.01 W/m??K|Trawsyriannedd thermol cyfartalog 0.01 W/m??K
+785,Average thermal transmittance 1.15 W/m?K
+786,Average thermal transmittance 0.82 W/mÂ²K
+787,Average thermal transmittance 0.48 W/mÂ²K
+788,Average thermal transmittance 0.08 W/mA?K
+789,Average thermal transmittance 0.86 W/mÂ²K
+790,Average thermal transmittance 0.93 W/m-¦K
+791,Average thermal transmittance 0.96 W/mÂ²K
+792,Average thermal transmittance 0.09 W/mA?K
+793,Average thermal transmittance 0.89 W/mÂ²K
+794,Average thermal transmittance 0.69 W/mÂ²K
+795,Average thermal transmittance 0.14 W/m?K|Trawsyriannedd thermol cyfartalog 0.14 W/m?K
+796,Average thermal transmittance 3.41 W/m-¦K
+797,Average thermal transmittance 0.29 W/mA?K
+798,Average thermal transmittance 0.47 W/mA?K
+799,Average thermal transmittance 0.86 W/m?K
+800,Average thermal transmittance = 1.38 W/m?K
+801,Average thermal transmittance 1.14 W/m?K
+802,Average thermal transmittance -0.05 W/m?K
+803,Average thermal transmittance 1.22 W/mÂ²K
+804,Average thermal transmittance 0.94 W/m-¦K
+805,Average thermal transmittance 1.39 W/m²K
+806,Average thermal transmittance 1.17 W/m²K
+807,Average thermal transmittance 0.61 W/mÂ²K
+808,Average thermal transmittance 0.32 W/m2K
+809,Average thermal transmittance 0.54 W/m2K
+810,Average thermal transmittance = 1.01 W/m?K
+811,Average thermal transmittance = 0.64 W/m?K
+812,Average thermal transmittance 1.05 W/m²K
+813,"To unheated space, limited insulation (assumed)insulated"
+814,Average thermal transmittance 2.50 W/m²K
+815,Average thermal transmittance 0.140 W/m²K
+816,Average thermal transmittance 0.47 W/m&#0178;K
+817,Average thermal transmittance = 0.68 W/m?K
+818,Average thermal transmittance 1.72 W/m²K
+819,Average thermal transmittance 0.08 W/m&#0178;K
+820,Average thermal transmittance 1.75 W/m²K
+821,"Solet, inswleiddio cyfyngedig (rhagdybiaeth)"
+822,Average thermal transmittance 0.47 W/mÂ²K
+823,Average thermal transmittance 0.46 W/mA?K
+824,Average thermal transmittance 1.42 W/m?K
+825,Average thermal transmittance 1.97 W/m-¦K
+826,Average thermal transmittance 3.52 W/m?K
+827,Average thermal transmittance 1.02 W/mÂ²K
+828,Average thermal transmittance = 0.85 W/m?K
+829,Average thermal transmittance 1.87 W/m²K
+830,Average thermal transmittance 1.45 W/m-¦K
+831,Average thermal transmittance 1.04 W/m-¦K
+832,Average thermal transmittance 0 W/m&#0178;K
+833,Average thermal transmittance 1.45 W/m²K
+834,Average thermal transmittance 0.75 W/mÂ²K
+835,Average thermal transmittance 1.08 W/m-¦K
+836,Average thermal transmittance 1.64 W/m²K
+837,Average thermal transmittance -0.48 W/m?K
+838,Average thermal transmittance 2.01 W/m²K
+839,Average thermal transmittance 0.97 W/mÂ²K
+840,Average thermal transmittance 0.69 W/mA?K
+841,Average thermal transmittance 1.58 W/m-¦K
+842,Average thermal transmittance = 0.08 W/m?K
+843,Average thermal transmittance 0.93 W/mA?K
+844,Average thermal transmittance 1.19 W/m²K
+845,Average thermal transmittance 3.48 W/m²K
+846,Average thermal transmittance 0.87 W/m-¦K
+847,Average thermal transmittance 0.63 W/mA?K
+848,Average thermal transmittance 1.12 W/mÂ²K
+849,Average thermal transmittance 0.29 W/m2K
+850,Average thermal transmittance 0.27 W/mA?K
+851,Average thermal transmittance 1.50 W/m-¦K
+852,Average thermal transmittance 0.72 W/mÂ²K
+853,Average thermal transmittance 1.02 W/m-¦K
+854,Average thermal transmittance = 0.09 W/m?K
+855,Average thermal transmittance 0.36 W/m?K|Trawsyriannedd thermol cyfartalog 0.36 W/m?K
+856,Average thermal transmittance 2.02 W/m-¦K
+857,Average thermal transmittance 0.52 W/m2K
+858,Average thermal transmittance 0.64 W/m2K
+859,Average thermal transmittance 0.31 W/m2K
+860,Average thermal transmittance 1.44 W/m-¦K
+861,Average thermal transmittance = 0.49 W/m?K
+862,Average thermal transmittance 0.70 W/m&#0178;K
+863,Average thermal transmittance 0.44 W/m??K
+864,Average thermal transmittance 1.32 W/m²K
+865,Average thermal transmittance 3.23 W/m²K
+866,Average thermal transmittance 0.6 W/m²K
+867,Average thermal transmittance 0.82 W/m-¦K
+868,Average thermal transmittance 1.57 W/m?K
+869,Average thermal transmittance 0.13 W/m?K|Trawsyriannedd thermol cyfartalog 0.13 W/m?K
+870,Average thermal transmittance 1.34 W/m?K
+871,Average thermal transmittance 1.00 W/m&#0178;K
+872,Average thermal transmittance 0.69 W/m&#0178;K
+873,Average thermal transmittance 0.70 W/m??K|Trawsyriannedd thermol cyfartalog 0.70 W/m??K
+874,Average thermal transmittance 3.95 W/m²K
+875,Average thermal transmittance 1.62 W/m²K
+876,Average thermal transmittance = 0.61 W/m?K
+877,Average thermal transmittance 1.33 W/m?K
+878,Solid????????????????????????????????????????????????????insulated (assumed)
+879,Solid????????????????????????????????????????????????????no insulation (assumed)
+880,Suspended????????????????????????????????????????????????????no insulation (assumed)
+881,Average thermal transmittance 0.11 W/m??K|Trawsyriannedd thermol cyfartalog 0.11 W/m??K
+882,Average thermal transmittance 1.16 W/m²K
+883,Average thermal transmittance 4.17 W/m?K
+884,Average thermal transmittance 0.32 W/mA?K
+885,Average thermal transmittance 1.36 W/m²K
+886,Average thermal transmittance 0.55 W/m&#0178;K
+887,Average thermal transmittance 0.46 W/m&#0178;K
+888,Average thermal transmittance = 0.50 W/m?K
+889,Average thermal transmittance = 1.00 W/m?K
+890,Average thermal transmittance 1.25 W/m-¦K
+891,Average thermal transmittance 3.37 W/m²K
+892,Average thermal transmittance 1.68 W/m-¦K
+893,Average thermal transmittance 1.29 W/m-¦K
+894,Average thermal transmittance 2.39 W/m-¦K
+895,Average thermal transmittance 3.05 W/m-¦K
+896,Average thermal transmittance 1.19 W/m-¦K
+897,Average thermal transmittance 0.280 W/m²K
+898,Average thermal transmittance 0.130 W/m²K
+899,Average thermal transmittance 0.110 W/m²K
+900,Average thermal transmittance 0.33 W/m2K
+901,Average thermal transmittance 0.199 W/m²K
+902,Average thermal transmittance 2.37 W/m?K
+903,Average thermal transmittance 0.174 W/m²K
+904,Average thermal transmittance 0.190 W/m²K
+905,Average thermal transmittance 1 W/m²K
+906,Average thermal transmittance 0.180 W/m²K
+907,Average thermal transmittance 0.33 W/m??K|Trawsyriannedd thermol cyfartalog 0.33 W/m??K
+908,Average thermal transmittance 0.59 W/m??K|Trawsyriannedd thermol cyfartalog 0.59 W/m??K
+909,Average thermal transmittance 1.37 W/m²K
+910,Average thermal transmittance 1.40 W/mÂ²K
+911,Average thermal transmittance 1.10 W/mÂ²K
+912,Average thermal transmittance 0.34 W/m??K|Trawsyriannedd thermol cyfartalog 0.34 W/m??K
+913,Average thermal transmittance 1.05 W/m-¦K
+914,Average thermal transmittance 1.49 W/m²K
+915,Average thermal transmittance 1.59 W/m²K
+916,Average thermal transmittance 0.02 W/mÂ²K
+917,Average thermal transmittance 2.64 W/m-¦K
+918,Average thermal transmittance 1.22 W/m-¦K
+919,Average thermal transmittance 1.40 W/m²K
+920,Average thermal transmittance 1.13 W/m²K
+921,Average thermal transmittance 2.20 W/m²K
+922,Average thermal transmittance = 0.60 W/m?K
+923,Average thermal transmittance 1.68 W/m²K
+924,Average thermal transmittance 0.66 W/mA?K
+925,Average thermal transmittance 0.67 W/mA?K
+926,Average thermal transmittance 2.26 W/m?K
+927,Average thermal transmittance 3.00 W/m²K
+928,Average thermal transmittance 1.31 W/mÂ²K
+929,Average thermal transmittance 0.04 W/mÂ²K
+930,Average thermal transmittance 0.40 W/mÂ²K
+931,Average thermal transmittance 2.04 W/m²K
+932,Average thermal transmittance 1.96 W/m?K
+933,Average thermal transmittance = 0.96 W/m?K
+934,Average thermal transmittance 0.8 W/m?K
+935,Average thermal transmittance 1.31 W/m²K
+936,Average thermal transmittance 0.01 W/m-¦K
+937,Average thermal transmittance 0.44 W/mÂ²K
+938,Average thermal transmittance 1.51 W/m²K
+939,Average thermal transmittance 1.09 W/m²K
+940,Average thermal transmittance 0.00 W/mÂ²K
+941,Average thermal transmittance 0.87 W/m&#0178;K
+942,Average thermal transmittance 1.76 W/m²K
+943,Average thermal transmittance 1.30 W/m??K|Trawsyriannedd thermol cyfartalog 1.30 W/m??K
+944,Average thermal transmittance 103.90 W/m??K|Trawsyriannedd thermol cyfartalog 103.90 W/m??K
+945,Average thermal transmittance 0.56 W/mA?K
+946,Trawsyriannedd thermol cyfartalog 0.18 W/m²K
+947,"I ofod heb ei wresogi, heb ei inswleiddio (rhagdybiaeth)"
+948,Trawsyriannedd thermol cyfartalog 0.22 W/m?K
+949,Average thermal transmittance 0.61 W/m??K
+950,Average thermal transmittance 0.62 W/m??K
+951,Trawsyriannedd thermol cyfartalog 0.10 W/m-¦K
+952,Trawsyriannedd thermol cyfartalog 0.16 W/m²K
+953,Trawsyriannedd thermol cyfartalog 0.12 W/m²K
+954,Trawsyriannedd thermol cyfartalog 0.11 W/m-¦K
+955,Trawsyriannedd thermol cyfartalog 0.09 W/m²K
+956,Average thermal transmittance 1.27 W/m-¦K
+957,Trawsyriannedd thermol cyfartalog 0.17 W/m-¦K
+958,Average thermal transmittance 0.4 W/m?K
+959,"Solet, wedi’i inswleiddio (rhagdybiaeth)"
+960,"Solet, wediGÇÖi inswleiddio (rhagdybiaeth)"
+961,"Solet, wedi'i inswleiddio (rhagdybiaeth)"
+962,Average thermal transmittance 1 W/m?K
+963,Average thermal transmittance 0.00 W/m2K
+964,Average thermal transmittance 0.36 W/m??K|Trawsyriannedd thermol cyfartalog 0.36 W/m??K
+965,Average thermal transmittance 2.55 W/m²K
+966,Average thermal transmittance 0.36 W/m2K
+967,Trawsyriannedd thermol cyfartalog 0.13 W/m-¦K
+968,Average thermal transmittance 2.18 W/m²K
+969,Average thermal transmittance = 0.66 W/m?K
+970,Trawsyriannedd thermol cyfartalog 0.15 W/m-¦K
+971,Average thermal transmittance 0.28 W/m??K|Trawsyriannedd thermol cyfartalog 0.28 W/m??K
+972,Average thermal transmittance 1.90 W/m²K
+973,Average thermal transmittance 1.04 W/m?K
+974,Average thermal transmittance 0.93 W/m??K
+975,Average thermal transmittance 0.99 W/m-¦K
+976,Average thermal transmittance 1.14 W/m²K
+977,Average thermal transmittance 1.20 W/m&#0178;K
+978,Average thermal transmittance 0.41 W/m&#0178;K
+979,Average thermal transmittance 0.52 W/m&#0178;K
+980,Average thermal transmittance 1.46 W/m-¦K
+981,Average thermal transmittance 2.78 W/m²K
+982,Average thermal transmittance 1.71 W/m?K
+983,Average thermal transmittance 0.52 W/mA?K
+984,Average thermal transmittance 1.28 W/m-¦K
+985,Average thermal transmittance 0.62 W/m&#0178;K
+986,Average thermal transmittance 2.00 W/m?K
+987,Average thermal transmittance 3.12 W/m²K
+988,Average thermal transmittance 0.48 W/m??K
+989,Average thermal transmittance 1.92 W/m²K
+990,Average thermal transmittance 1.04 W/mÂ²K
+991,Average thermal transmittance 2.14 W/m?K
+992,Average thermal transmittance 0.36 W/mA?K
+993,Average thermal transmittance 1.65 W/m²K
+994,Average thermal transmittance 1.13 W/m?K
+995,Average thermal transmittance 1.46 W/m?K
+996,Average thermal transmittance = 1.08 W/m?K
+997,Average thermal transmittance 0.50 W/m??K|Trawsyriannedd thermol cyfartalog 0.50 W/m??K
+998,Average thermal transmittance 0.90 W/m??K
+999,Average thermal transmittance 1.53 W/m²K
+1000,Average thermal transmittance = 0.78 W/m?K
+1001,Average thermal transmittance 1.82 W/m²K
+1002,Average thermal transmittance = -0.45 W/m?K
+1003,Average thermal transmittance 1.21 W/m?K
+1004,Average thermal transmittance 0.90 W/m-¦K
+1005,Average thermal transmittance 0.44 W/m2K
+1006,Average thermal transmittance 3.63 W/m²K
+1007,Average thermal transmittance 0.54 W/mA?K
+1008,Average thermal transmittance 0.42 W/m2K
+1009,Average thermal transmittance = 0.90 W/m?K
+1010,Average thermal transmittance 1.47 W/mÂ²K
+1011,Average thermal transmittance 0.10 W/m&#0178;K
+1012,Average thermal transmittance 0.59 W/mA?K
+1013,Average thermal transmittance 0.56 W/m??K
+1014,Average thermal transmittance 1.71 W/m²K
+1015,Average thermal transmittance 0.84 W/m&#0178;K
+1016,Average thermal transmittance 1.61 W/m²K
+1017,Average thermal transmittance = 1.06 W/m?K
+1018,Average thermal transmittance 1.2 W/m²K
+1019,Average thermal transmittance 0.170 W/m²K
+1020,Average thermal transmittance 0.31 W/m??K
+1021,Average thermal transmittance -0.18 W/m²K
+1022,Average thermal transmittance 1.85 W/m²K
+1023,Average thermal transmittance 2.62 W/m²K
+1024,Average thermal transmittance 1.26 W/m²K
+1025,Average thermal transmittance 1.65 W/m-¦K
+1026,Average thermal transmittance 0.54 W/m??K
+1027,Average thermal transmittance 1.19 W/m?K
+1028,Average thermal transmittance 0.71 W/mA?K
+1029,Average thermal transmittance 1.98 W/m?K
+1030,Average thermal transmittance 3.50 W/m²K
+1031,"Crog, wedi?i inswleiddio (rhagdybiaeth)"
+1032,Average thermal transmittance = -0.57 W/m?K
+1033,Average thermal transmittance 3.03 W/m²K
+1034,Average thermal transmittance 1.08 W/m??K
+1035,Average thermal transmittance 0.30 W/m??K
+1036,Average thermal transmittance 0.68 W/m??K
+1037,Average thermal transmittance 0.35 W/m2K
+1038,Average thermal transmittance 0.39 W/m2K
+1039,Average thermal transmittance 0.77 W/mA?K
+1040,Average thermal transmittance 0.27 W/m?K|Trawsyriannedd thermol cyfartalog 0.27 W/m?K
+1041,Average thermal transmittance 0.28 W/m??K
+1042,Average thermal transmittance 0.58 W/m??K
+1043,Average thermal transmittance 2.29 W/m²K
+1044,Trawsyriannedd thermol cyfartalog 0.14 W/m²K
+1045,Average thermal transmittance 1.11 W/m-¦K
+1046,Average thermal transmittance 1.86 W/m?K
+1047,Suspended
+1048,Average thermal transmittance 1.40 W/m?K
+1049,Average thermal transmittance 2.55 W/m?K
+1050,Average thermal transmittance 0.94 W/m&#0178;K
+1051,Average thermal transmittance 1.29 W/m?K
+1052,Average thermal transmittance -1.24 W/m?K
+1053,Average thermal transmittance 2.39 W/m²K
+1054,Average thermal transmittance 0.46 W/m??K
+1055,Average thermal transmittance 1.07 W/m??K
+1056,Average thermal transmittance 1.64 W/m-¦K
+1057,Average thermal transmittance 0.80 W/mA?K
+1058,Average thermal transmittance 1.01 W/m??K
+1059,Average thermal transmittance 0.48 W/m2K
+1060,Average thermal transmittance 0.58 W/m&#0178;K
+1061,Average thermal transmittance 0.03 W/m?K|Trawsyriannedd thermol cyfartalog 0.03 W/m?K
+1062,Average thermal transmittance 0.03 W/mA?K
+1063,Average thermal transmittance -4.75 W/m?K
+1064,Average thermal transmittance -0.34 W/m?K
+1065,Average thermal transmittance -0.25 W/m?K
+1066,Average thermal transmittance -0.15 W/m?K
+1067,Average thermal transmittance 3.45 W/m?K
+1068,Average thermal transmittance = 0.62 W/m?K
+1069,Average thermal transmittance 2.33 W/m²K
+1070,Average thermal transmittance 0.09 W/m??K|Trawsyriannedd thermol cyfartalog 0.09 W/m??K
+1071,Average thermal transmittance 1.52 W/m²K
+1072,Average thermal transmittance 0.47 W/m2K
+1073,Average thermal transmittance 1.99 W/m?K
+1074,Average thermal transmittance 0.5 W/m²K
+1075,Average thermal transmittance 1.23 W/m-¦K
+1076,Average thermal transmittance 0.51 W/m??K
+1077,Average thermal transmittance 0.78 W/m??K
+1078,Average thermal transmittance 0.150 W/m²K
+1079,Average thermal transmittance 1.70 W/m?K
+1080,Average thermal transmittance 0.210 W/m²K
+1081,Average thermal transmittance 1.38 W/m²K
+1082,Average thermal transmittance 0.65 W/m??K
+1083,Trawsyriannedd thermol cyfartalog 0.16 W/m-¦K
+1084,Average thermal transmittance = 0.77 W/m?K
+1085,"I ofod heb ei wresogi, wediGÇÖi inswleiddio"
+1086,Average thermal transmittance 1.50 W/m??K|Trawsyriannedd thermol cyfartalog 1.50 W/m??K
+1087,Average thermal transmittance = -1.74 W/m?K
+1088,Average thermal transmittance 2.11 W/mÂ²K
+1089,Average thermal transmittance 1.75 W/m-¦K
+1090,Average thermal transmittance 0.84 W/m??K
+1091,Average thermal transmittance 0.81 W/m??K
+1092,Average thermal transmittance = 0.97 W/m?K
+1093,Average thermal transmittance 1.74 W/m²K
+1094,Average thermal transmittance -0.12 W/m?K
+1095,Average thermal transmittance 0.51 W/m2K
+1096,Average thermal transmittance 1.61 W/m?K
+1097,Average thermal transmittance 0.160 W/m²K
+1098,Average thermal transmittance 1.77 W/mA?K
+1099,Average thermal transmittance 2.35 W/m??K|Trawsyriannedd thermol cyfartalog 2.35 W/m??K
+1100,Average thermal transmittance = -2.71 W/m?K
+1101,Average thermal transmittance 2.65 W/m²K
+1102,Average thermal transmittance 1.17 W/mÂ²K
+1103,Average thermal transmittance 0.58 W/mA?K
+1104,Average thermal transmittance 1.55 W/mÂ²K
+1105,Average thermal transmittance 1.18 W/m?K
+1106,Average thermal transmittance 0.90 W/m&#0178;K
+1107,Average thermal transmittance 0.48 W/mA?K
+1108,Average thermal transmittance 2.23 W/m-¦K
+1109,Average thermal transmittance 1.67 W/m?K
+1110,Average thermal transmittance = 0.65 W/m?K
+1111,Average thermal transmittance 2.10 W/m?K
+1112,Average thermal transmittance = 0.95 W/m?K
+1113,Average thermal transmittance 1.52 W/m-¦K
+1114,Average thermal transmittance 0.27 W/m??K|Trawsyriannedd thermol cyfartalog 0.27 W/m??K
+1115,Average thermal transmittance 1.00 W/mA?K
+1116,Average thermal transmittance = 0.88 W/m?K
+1117,Average thermal transmittance = 1.16 W/m?K
+1118,Average thermal transmittance = 1.37 W/m?K
+1119,Average thermal transmittance 0.00 W/m²K
+1120,Average thermal transmittance 0.62 W/m2K
+1121,Average thermal transmittance 2.45 W/m²K
+1122,Average thermal transmittance 0.40 W/m2K
+1123,Average thermal transmittance 0.40 W/mA?K
+1124,Average thermal transmittance 2.20 W/m?K
+1125,Average thermal transmittance 1.50 W/m&#0178;K
+1126,Average thermal transmittance 0.04 W/m2K
+1127,Average thermal transmittance 1.49 W/m?K
+1128,Average thermal transmittance 2.05 W/m²K
+1129,Average thermal transmittance 1.70 W/m-¦K
+1130,Average thermal transmittance 0.44 W/mA?K
+1131,Average thermal transmittance 3.11 W/m²K
+1132,Average thermal transmittance 0.111 W/m²K
+1133,Average thermal transmittance 0.63 W/m??K|Trawsyriannedd thermol cyfartalog 0.63 W/m??K
+1134,Average thermal transmittance 0.089 W/m²K
+1135,Average thermal transmittance 0.88 W/m??K
+1136,Average thermal transmittance 0.53 W/m??K
+1137,Average thermal transmittance 1.84 W/m²K
+1138,Average thermal transmittance 0.41 W/m??K|Trawsyriannedd thermol cyfartalog 0.41 W/m??K
+1139,Average thermal transmittance 0.81 W/mA?K
+1140,Average thermal transmittance 1.54 W/m²K
+1141,Average thermal transmittance 2.15 W/m²K
+1142,Average thermal transmittance 1.65 W/m?K
+1143,Average thermal transmittance 0.06 W/mA?K
+1144,Average thermal transmittance 1.01 W/m-¦K
+1145,Average thermal transmittance 1.58 W/m²K
+1146,Average thermal transmittance 5.00 W/m-¦K
+1147,Average thermal transmittance 1.30 W/m??K
+1148,Average thermal transmittance 2.10 W/m&#0178;K
+1149,Average thermal transmittance 3.11 W/m?K
+1150,Average thermal transmittance 0.97 W/m-¦K
+1151,Trawsyriannedd thermol cyfartalog 0.80 W/m-¦K
+1152,Trawsyriannedd thermol cyfartalog 0.64 W/m²K
+1153,Average thermal transmittance 2.05 W/m?K
+1154,Average thermal transmittance 3.85 W/m²K
+1155,Average thermal transmittance 1.43 W/m²K
+1156,Average thermal transmittance = 0.67 W/m?K
+1157,Trawsyriannedd thermol cyfartalog 0.15 W/m²K
+1158,Average thermal transmittance 1.31 W/m-¦K
+1159,Average thermal transmittance 1.08 W/m&#0178;K
+1160,Average thermal transmittance 1.36 W/m?K
+1161,Average thermal transmittance 1.89 W/m²K
+1162,Average thermal transmittance 1.43 W/m?K
+1163,Average thermal transmittance 0.55 W/mA?K
+1164,Average thermal transmittance 1.35 W/m-¦K
+1165,Average thermal transmittance 0.50 W/mA?K
+1166,Average thermal transmittance 0.34 W/m??K
+1167,Average thermal transmittance 2.17 W/m?K
+1168,Average thermal transmittance 0.41 W/mA?K
+1169,Average thermal transmittance 1.39 W/m?K
+1170,Average thermal transmittance 1.94 W/m²K
+1171,Average thermal transmittance 0.89 W/m&#0178;K
+1172,Average thermal transmittance 1.59 W/m?K
+1173,Average thermal transmittance 4.85 W/m²K
+1174,Average thermal transmittance 0.60 W/mA?K
+1175,Average thermal transmittance = -0.58 W/m?K
+1176,Average thermal transmittance 1.09 W/m??K
+1177,Average thermal transmittance 0.45 W/m??K
+1178,Average thermal transmittance 0.7 W/m?K
+1179,Average thermal transmittance 0.33 W/m??K
+1180,Average thermal transmittance 1.26 W/m-¦K
+1181,Average thermal transmittance 0.37 W/m2K
+1182,Average thermal transmittance = 0.54 W/m?K
+1183,Average thermal transmittance 0.37 W/mA?K
+1184,Average thermal transmittance 1.41 W/m-¦K
+1185,Average thermal transmittance 1.50 W/mA?K
+1186,Average thermal transmittance 1.90 W/m?K
+1187,Average thermal transmittance 1.58 W/m?K
+1188,Average thermal transmittance 1.86 W/m-¦K
+1189,Average thermal transmittance 1.70 W/m²K
+1190,Average thermal transmittance 2.19 W/m²K
+1191,Average thermal transmittance 1.37 W/m-¦K
+1192,Average thermal transmittance 0.87 W/m2K
+1193,Average thermal transmittance 0.81 W/mÂ²K
+1194,Average thermal transmittance 2.61 W/m²K
+1195,Average thermal transmittance 1.43 W/m-¦K
+1196,Average thermal transmittance 1.46 W/m²K
+1197,Average thermal transmittance = 0.82 W/m?K
+1198,Average thermal transmittance 0.73 W/m??K|Trawsyriannedd thermol cyfartalog 0.73 W/m??K
+1199,Average thermal transmittance 0.87 W/mÂ²K
+1200,Average thermal transmittance 1.44 W/m²K
+1201,Average thermal transmittance 0.65 W/mA?K
+1202,Average thermal transmittance 0.37 W/m??K
+1203,Average thermal transmittance 1.06 W/mÂ²K
+1204,Average thermal transmittance 1.28 W/m?K
+1205,Average thermal transmittance 0.71 W/m??K
+1206,Average thermal transmittance -1.46 W/m?K
+1207,Average thermal transmittance = 0.81 W/m?K
+1208,Average thermal transmittance 1.51 W/m-¦K
+1209,Average thermal transmittance = 0.89 W/m?K
+1210,Average thermal transmittance 2.32 W/m²K
+1211,Average thermal transmittance 0.98 W/m&#0178;K
+1212,Average thermal transmittance = -0.18 W/m?K
+1213,Average thermal transmittance 0.59 W/m2K
+1214,Average thermal transmittance 0.58 W/m2K
+1215,Average thermal transmittance 0.46 W/m2K
+1216,Average thermal transmittance 0.10 W/m2K
+1217,Average thermal transmittance 0.69 W/m2K
+1218,Average thermal transmittance 0.41 W/m2K
+1219,Average thermal transmittance 0.29 W/m??K|Trawsyriannedd thermol cyfartalog 0.29 W/m??K
+1220,Average thermal transmittance 1.23 W/m?K
+1221,Average thermal transmittance 0.4 W/m²K
+1222,Average thermal transmittance 25.42 W/m²K
+1223,Average thermal transmittance 1.95 W/m-¦K
+1224,Average thermal transmittance = 0.80 W/m?K
+1225,Average thermal transmittance 1.47 W/m?K
+1226,Average thermal transmittance = -0.11 W/m?K
+1227,Average thermal transmittance 0.138 W/m²K
+1228,Average thermal transmittance 0.100 W/m²K
+1229,Average thermal transmittance 2.34 W/m?K
+1230,Average thermal transmittance 0.32 W/m??K
+1231,Average thermal transmittance 2.00 W/m-¦K
+1232,Average thermal transmittance 0.92 W/mÂ²K
+1233,Average thermal transmittance 0.9 W/m²K
+1234,Average thermal transmittance 1.78 W/m²K
+1235,Average thermal transmittance 0.68 W/mA?K
+1236,Average thermal transmittance 0.57 W/mA?K
+1237,Average thermal transmittance 2.95 W/m²K
+1238,Average thermal transmittance 0.59 W/m??K
+1239,Average thermal transmittance 1.10 W/mA?K
+1240,Average thermal transmittance 2.81 W/m²K
+1241,Average thermal transmittance 2.17 W/m²K
+1242,Trawsyriannedd thermol cyfartalog 0.15 W/m?K
+1243,"I ofod heb ei wresogi, dim inswleiddio (rhagdybiaeth)"
+1244,Trawsyriannedd thermol cyfartalog 0.18 W/m-¦K
+1245,Average thermal transmittance 1.89 W/m?K
+1246,Average thermal transmittance 0.08 W/m2K

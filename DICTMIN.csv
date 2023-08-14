@@ -1,0 +1,40 @@
+,0
+property-type,0.0
+built-form,-2.0
+local-authority,6000030.0
+transaction-type,-2.0
+total-floor-area,-1.0
+energy-tariff,-2.0
+mains-gas-flag,-2.0
+floor-level,-2.0
+flat-top-storey,-1.0
+multi-glaze-proportion,-1.0
+glazed-type,-2.0
+glazed-area,-2.0
+extension-count,-1.0
+number-habitable-rooms,0.0
+number-heated-rooms,-1.0
+low-energy-lighting,-1.0
+number-open-fireplaces,-1.0
+hotwater-description,-2.0
+floor-description,-2.0
+windows-description,-2.0
+mainheat-description,-2.0
+mainheatcont-description,-2.0
+main-fuel,-2.0
+heat-loss-corridor,-2.0
+unheated-corridor-length,-1.0
+floor-height,0.0
+solar-water-heating-flag,-2.0
+mechanical-ventilation,-2.0
+construction-age-band,-2.0
+fixed-lighting-outlets-count,-1.0
+low-energy-fixed-light-count,-1.0
+tenure,-2.0
+secondheat-description,-2.0
+insulation-wall,-2.0
+wall type,-2.0
+Average thermal transmittance-wall,-0.87
+insulation-roof,-1.0
+roof type,-1.0
+Average thermal transmittance-roof,-2.0

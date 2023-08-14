@@ -1,0 +1,239 @@
+,0
+0,marketed sale
+1,ECO assessment
+2,none of the above
+3,new dwelling
+4,FiT application
+5,rental (social)
+6,rental (private)
+7,non marketed sale
+8,assessment for green deal
+9,not recorded
+10,RHI application
+11,rental
+12,following green deal
+13,unknown
+14,Stock Condition Survey
+15,not sale or rental
+16,not recorded - this is for backwards compatibility only and should not be used
+17,Stock condition survey
+18,rental (private) - this is for backwards compatibility only and should not be used
+19,rental (social) - this is for backwards compatibility only and should not be used
+20,"['rental' 'marketed sale' 'rental (social)' 'new dwelling'
+ 'assessment for green deal' 'none of the above' 'FiT application'
+ 'non marketed sale' 'rental (private)' 'ECO assessment'
+ 'Stock Condition Survey' 'not sale or rental' 'unknown'
+ 'following green deal' 'RHI application' 'Stock condition survey'
+ 'rental (social) - this is for backwards compatibility only and should not be used'
+ 'not recorded'
+ 'rental (private) - this is for backwards compatibility only and should not be used'
+ nan]"
+21,"['rental' 'marketed sale' 'rental (social)' 'new dwelling'
+ 'assessment for green deal' 'none of the above' 'FiT application'
+ 'non marketed sale' 'rental (private)' 'ECO assessment'
+ 'Stock Condition Survey' 'not sale or rental' 'unknown'
+ 'following green deal' 'RHI application' 'Stock condition survey'
+ 'rental (social) - this is for backwards compatibility only and should not be used'
+ 'not recorded'
+ 'rental (private) - this is for backwards compatibility only and should not be used'
+ nan]"
+22,rental
+23,marketed sale
+24,rental (social)
+25,new dwelling
+26,assessment for green deal
+27,none of the above
+28,FiT application
+29,non marketed sale
+30,rental (private)
+31,ECO assessment
+32,Stock Condition Survey
+33,not sale or rental
+34,unknown
+35,following green deal
+36,RHI application
+37,Stock condition survey
+38,rental (social) - this is for backwards compatibility only and should not be used
+39,not recorded
+40,rental (private) - this is for backwards compatibility only and should not be used
+41,assessment for green deal
+42,none of the above
+43,rental (private)
+44,new dwelling
+45,rental
+46,marketed sale
+47,rental (social)
+48,non marketed sale
+49,ECO assessment
+50,following green deal
+51,FiT application
+52,RHI application
+53,Stock condition survey
+54,not sale or rental
+55,not recorded
+56,unknown
+57,not recorded - this is for backwards compatibility only and should not be used
+58,Stock Condition Survey
+59,assessment for green deal
+60,none of the above
+61,rental (private)
+62,new dwelling
+63,rental
+64,marketed sale
+65,rental (social)
+66,non marketed sale
+67,ECO assessment
+68,following green deal
+69,FiT application
+70,RHI application
+71,Stock condition survey
+72,not sale or rental
+73,not recorded
+74,unknown
+75,not recorded - this is for backwards compatibility only and should not be used
+76,Stock Condition Survey
+77,assessment for green deal
+78,none of the above
+79,rental (private)
+80,new dwelling
+81,rental
+82,marketed sale
+83,rental (social)
+84,non marketed sale
+85,ECO assessment
+86,following green deal
+87,FiT application
+88,RHI application
+89,Stock condition survey
+90,not sale or rental
+91,not recorded
+92,unknown
+93,not recorded - this is for backwards compatibility only and should not be used
+94,Stock Condition Survey
+95,assessment for green deal
+96,none of the above
+97,rental (private)
+98,new dwelling
+99,rental
+100,marketed sale
+101,rental (social)
+102,non marketed sale
+103,ECO assessment
+104,following green deal
+105,FiT application
+106,RHI application
+107,Stock condition survey
+108,not sale or rental
+109,not recorded
+110,unknown
+111,not recorded - this is for backwards compatibility only and should not be used
+112,Stock Condition Survey
+113,assessment for green deal
+114,none of the above
+115,rental (private)
+116,new dwelling
+117,rental
+118,marketed sale
+119,rental (social)
+120,non marketed sale
+121,ECO assessment
+122,following green deal
+123,FiT application
+124,RHI application
+125,Stock condition survey
+126,not sale or rental
+127,not recorded
+128,unknown
+129,not recorded - this is for backwards compatibility only and should not be used
+130,Stock Condition Survey
+131,assessment for green deal
+132,none of the above
+133,rental (private)
+134,new dwelling
+135,rental
+136,marketed sale
+137,rental (social)
+138,non marketed sale
+139,ECO assessment
+140,following green deal
+141,FiT application
+142,RHI application
+143,Stock condition survey
+144,not sale or rental
+145,not recorded
+146,unknown
+147,not recorded - this is for backwards compatibility only and should not be used
+148,Stock Condition Survey
+149,assessment for green deal
+150,none of the above
+151,rental (private)
+152,new dwelling
+153,rental
+154,marketed sale
+155,rental (social)
+156,non marketed sale
+157,ECO assessment
+158,following green deal
+159,FiT application
+160,RHI application
+161,Stock condition survey
+162,not sale or rental
+163,not recorded
+164,unknown
+165,not recorded - this is for backwards compatibility only and should not be used
+166,Stock Condition Survey
+167,assessment for green deal
+168,none of the above
+169,rental (private)
+170,new dwelling
+171,rental
+172,marketed sale
+173,rental (social)
+174,non marketed sale
+175,ECO assessment
+176,following green deal
+177,FiT application
+178,RHI application
+179,Stock condition survey
+180,not sale or rental
+181,not recorded
+182,unknown
+183,not recorded - this is for backwards compatibility only and should not be used
+184,Stock Condition Survey
+185,assessment for green deal
+186,none of the above
+187,rental (private)
+188,new dwelling
+189,rental
+190,marketed sale
+191,rental (social)
+192,non marketed sale
+193,ECO assessment
+194,following green deal
+195,FiT application
+196,RHI application
+197,Stock condition survey
+198,not sale or rental
+199,not recorded
+200,unknown
+201,not recorded - this is for backwards compatibility only and should not be used
+202,Stock Condition Survey
+203,assessment for green deal
+204,none of the above
+205,rental (private)
+206,new dwelling
+207,rental
+208,marketed sale
+209,rental (social)
+210,non marketed sale
+211,ECO assessment
+212,following green deal
+213,FiT application
+214,RHI application
+215,Stock condition survey
+216,not sale or rental
+217,not recorded
+218,unknown
+219,not recorded - this is for backwards compatibility only and should not be used
+220,Stock Condition Survey
+221,

@@ -1,0 +1,493 @@
+,0
+0,"From main system, no cylinder thermostat"
+1,From main system
+2,Community scheme
+3,Gas multipoint
+4,"Electric immersion, standard tariff"
+5,"From main system, no cylinderstat"
+6,"Electric immersion, off-peak"
+7,No system present: electric immersion assumed
+8,SAP05:Hot-Water
+9,Electric instantaneous at point of use
+10,"From main system, plus solar"
+11,"Gas boiler/circulator, no cylinder thermostat"
+12,From secondary system
+13,Gas instantaneous at point of use
+14,Gas boiler/circulator
+15,"Community scheme, plus solar"
+16,"From main system, flue gas heat recovery"
+17,"From main system, no cylinder thermostat, plus solar"
+18,"From secondary system, no cylinderstat"
+19,"From secondary system, no cylinder thermostat"
+20,"Community scheme, no cylinder thermostat"
+21,"From main system, plus solar, flue gas heat recovery"
+22,Electric heat pump for water heating only
+23,"Electric immersion, off-peak, plus solar"
+24,community scheme
+25,"From main system, plus solar, no cylinder thermostat"
+26,"From main system, waste water heat recovery"
+27,"Gas multipoint, no cylinder thermostat"
+28,"No system present: electric immersion assumed, plus solar"
+29,"Electric immersion, off-peak, no cylinder thermostat"
+30,Solid fuel boiler/circulator
+31,"Electric immersion, standard tariff, plus solar"
+32,Gas range cooker
+33,Electric heat pump
+34,From community scheme
+35,"community scheme, no cylinder thermostat"
+36,"Gas range cooker, no cylinder thermostat"
+37,"From main system, no cylinderstat, no cylinderstat"
+38,"Electric heat pump for water heating only, no cylinder thermostat"
+39,"Electric immersion, standard tariff, no cylinder thermostat"
+40,"Electric immersion, dual tariff"
+41,"From main system, standard tariff"
+42,O’r brif system
+43,"Single-point gas water heater, standard tariff"
+44,", no cylinder thermostat"
+45,"Solid fuel boiler/circulator, no cylinder thermostat"
+46,"Oil range cooker, no cylinder thermostat"
+47,"Solid fuel range cooker, no cylinder thermostat"
+48,No system present?electric immersion assumed
+49,Solid fuel range cooker
+50,"Electric instantaneous at point of use, no cylinder thermostat"
+51,"Solid fuel range cooker, no cylinderstat, plus solar"
+52,From main system |O'r brif system
+53,"Electric heat pump for water heating only, plus solar"
+54,"Oil range cooker, no cylinderstat"
+55,"Electric heat pump, plus solar, no cylinder thermostat"
+56,Oil range cooker
+57,Oil boiler/circulator
+58,"From main system, flue gas heat recovery, waste water heat recovery"
+59,"Point gas water heater, no cylinderstat"
+60,O'r brif system
+61,"Electric immersion, off-peak, no cylinderstat"
+62,Community scheme with CHP
+63,"Gas boiler/circulator, plus solar"
+64,"Gas multipoint, no cylinderstat"
+65,"Electric immersion, standard tariff, no cylinderstat"
+66,Electric multipoint
+67,"Electric instantaneous at point of use, plus solar"
+68,"Electric immersion, standard tariff, waste water heat recovery"
+69,"O’r brif system, adfer gwres nwyon ffliw"
+70,"Gas multipoint, plus solar"
+71,"No system present: electric immersion assumed, no cylinder thermostat"
+72,O?r brif system
+73,"From secondary system, plus solar, no cylinder thermostat"
+74,No hot water system present - electric immersion assumed
+75,"Gas range cooker, no cylinderstat"
+76,"From main system, plus solar, no cylinder thermostat, flue gas heat recovery"
+77,No system present : electric immersion assumed
+78,"Back boiler (hot water only), gas"
+79,"Twymwr tanddwr, tarriff safonol"
+80,"Community scheme, no cylinder thermostat, plus solar"
+81,"Electric instantaneous at point of use, no cylinderstat"
+82,Single-point gas water heater
+83,"Oil boiler/circulator, plus solar"
+84,"Solid fuel boiler/circulator, plus solar"
+85,"From secondary system, plus solar"
+86,"Oil boiler/circulator, no cylinder thermostat"
+87,Community heat pump
+88,"Point gas water heater, no cylinderstat, no cylinderstat"
+89,"From secondary heater, no cylinderstat"
+90,"Gas range cooker, plus solar"
+91,Heat pump
+92,"Gas boiler/circulator, no cylinderstat"
+93,"From main system, no cylinderstat, plus solar"
+94,"Electric immersion, standard tariff, flue gas heat recovery, waste water heat recovery"
+95,"Electric immersion, off-peak, flue gas heat recovery, waste water heat recovery"
+96,"O'r brif system, dim thermostat ar y silindr"
+97,"From main system, flue gas heat recovery, plus solar"
+98,"Community scheme, waste water heat recovery"
+99,"From main system, plus solar, waste water heat recovery"
+100,"From main system , no cylinder thermostat"
+101,"Gas boiler/circulator, no cylinderstat, plus solar"
+102,"Single-point gas water heater, off-peak"
+103,"Electric immersion, standard tariff |Twymwr tanddwr, tarriff safonol"
+104,"Community scheme, flue gas heat recovery"
+105,From second main heating system
+106,"No system present: electric immersion assumed, no cylinderstat"
+107,OGÇÖr brif system
+108,"Gas instantaneous at point of use, plus solar"
+109,"Solid fuel range cooker, plus solar"
+110,SAP:Hot-Water
+111,"Twymwr tanddwr, an-frig"
+112,"Oil range cooker, plus solar, no cylinder thermostat"
+113,"Solid fuel boiler/circulator, plus solar, no cylinder thermostat"
+114,"O’r brif system, gydag ynni’r haul"
+115,"Oil range cooker, plus solar"
+116,"Gas boiler/circulator, no cylinder thermostat, plus solar"
+117,"Electric instantaneous at point of use, flue gas heat recovery"
+118,"Electric heat pump for water heating only, plus solar, no cylinder thermostat"
+119,"Electric immersion, standard tariff, flue gas heat recovery"
+120,"O?r brif system, dim thermostat ar y silindr"
+121,"Electric instantaneous at point of use, waste water heat recovery"
+122,From community CHP scheme
+123,Electric instantaneous at point of use |Trydan ar unwaith yn y fan lle mae'n cael ei ddefnyddio
+124,"From main system, no cylinder thermostat, flue gas heat recovery"
+125,"No system present: electric immersion assumed, flue gas heat recovery"
+126,"Electric immersion, off-peak, waste water heat recovery"
+127,From secondary heater
+128,"From second main heating system, waste water heat recovery"
+129,"From main system, 7-hour tariff (on-peak)"
+130,"Electric heat pump, plus solar"
+131,"Electric immersion, off-peak, flue gas heat recovery"
+132,"Gas multipoint, standard tariff"
+133,"From community scheme, no cylinderstat"
+134,"Gas boiler/circulator, plus solar, no cylinder thermostat"
+135,"Heat pump, electric"
+136,"From community scheme, plus solar"
+137,"Solid fuel boiler/circulator, no cylinder thermostat, plus solar"
+138,"Electric immersion, off-peak |Twymwr tanddwr, an-frig"
+139,"O’r brif system, dim thermostat ar y silindr"
+140,"Heat pump, plus solar"
+141,"Oil range cooker, no cylinder thermostat, plus solar"
+142,"From secondary heater, standard tariff"
+143,"Gas boiler/circulator, no cylinder thermostat, flue gas heat recovery"
+144,"Electric immersion, standard tariff, waste water heat recovery, no cylinder thermostat"
+145,"From main system, no cylinder thermostat, waste water heat recovery"
+146,"From secondary system, no cylinder thermostat, plus solar"
+147,"Electric instantaneous at point of use, 7-hour tariff (on-peak)"
+148,"Solid fuel boiler/circulator for water heating only, plus solar"
+149,", no cylinderstat"
+150,"Oil boiler/circulator, plus solar, no cylinder thermostat"
+151,Gas boiler/circulator |Bwyler/cylchredydd nwy
+152,"Community scheme, plus solar, no cylinder thermostat"
+153,"Solid fuel range cooker, no cylinderstat"
+154,"Point gas water heater, 7-hour tariff (on-peak)"
+155,"Solid fuel range cooker, plus solar, no cylinder thermostat"
+156,"From main system, waste water heat recovery, no cylinder thermostat"
+157,"Electric immersion, standard tariff, plus solar, no cylinder thermostat"
+158,"From hot-water only community scheme - boilers, plus solar"
+159,"From main system, waste water heat recovery, flue gas heat recovery"
+160,"From second main heating system, flue gas heat recovery"
+161,"No hot water system present - electric immersion assumed, plus solar"
+162,"No system present: electric immersion assumed, no cylinder thermostat, plus solar"
+163,Gas boiler/circulator for water heating only
+164,"Oil range cooker, no cylinderstat, plus solar"
+165,"From second main heating system, plus solar"
+166,"Electric immersion, off-peak, no cylinder thermostat, plus solar"
+167,"Electric instantaneous at point of use, standard tariff"
+168,Electric immersion (on-peak or off-peak)
+169,"Solid fuel range cooker, no cylinder thermostat, plus solar"
+170,From main heating system
+171,"Gas boiler/circulator, flue gas heat recovery"
+172,"From main system, flue gas heat recovery, no cylinder thermostat"
+173,"From main heating system, no cylinderstat"
+174,", plus solar, no cylinder thermostat"
+175,"Multi-point gas water heater (instantaneous serving several taps), flue gas heat recovery"
+176,"From second main heating system, plus solar, waste water heat recovery"
+177,"Electric heat pump for water heating only, flue gas heat recovery"
+178,"Gas range cooker, plus solar, no cylinder thermostat"
+179,"Community scheme with CHP, plus solar"
+180,"From main system, flue gas heat recovery, plus solar, waste water heat recovery"
+181,"No system present?electric immersion assumed, no cylinder thermostat"
+182,"Gas range cooker, no cylinder thermostat, plus solar"
+183,"Gas instantaneous at point of use, no cylinder thermostat"
+184,"Gas instantaneous at point of use, flue gas heat recovery"
+185,***SAMPLE***
+186,"Community scheme with CHP, no cylinder thermostat"
+187,"Gas boiler/circulator for water heating only, plus solar"
+188,"Multi-point gas water heater (instantaneous serving several taps), plus solar"
+189,Oil range cooker |Popty estynedig olew
+190,"From secondary heater, 7-hour tariff (on-peak)"
+191,"From hot-water only community scheme - heat pump, plus solar"
+192,From community heat pump
+193,"Heat pump, no cylinder thermostat"
+194,  
+195,"Electric instantaneous at point of use, 7-hour tariff (on-peak), 7-hour tariff (on-peak)"
+196,From main system????????????????????????????????????????????????????no cylinderstat
+197,"Electric immersion, standard tariff, plus solar, flue gas heat recovery"
+198,"From secondary system, no cylinderstat, plus solar"
+199,"Electric immersion, off-peak, plus solar, waste water heat recovery"
+200,Solid fuel boiler/circulator |Bwyler/cylchredydd tanwydd solet
+201,"Twymwr tanddwr, an-frig, dim thermostat ar y silindr"
+202,"Room heaters, no cylinder thermostat"
+203,Bwyler/cylchredydd nwy
+204,"No hot water system present - electric immersion assumed, waste water heat recovery"
+205,"From hot-water only community scheme - boilers, waste water heat recovery"
+206,"Gas boiler/circulator, waste water heat recovery"
+207,"From hot-water only community scheme - boilers, flue gas heat recovery"
+208,"From main system, plus solar, flue gas heat recovery, waste water heat recovery"
+209,"Single-point gas water heater, plus solar"
+210,Gas instantaneous at point of use |Nwy ar unwaith yn y fan lle mae'n cael ei ddefnyddio
+211,Community scheme with CHP |O gynllun CHP cymunedol
+212,"Single-point gas water heater, no cylinderstat"
+213,"From community scheme, plus solar, no cylinder thermostat"
+214,"Gas multipoint, flue gas heat recovery"
+215,"Electric heat pump for water heating only, waste water heat recovery"
+216,"Electric immersion, off-peak, waste water heat recovery, no cylinder thermostat"
+217,"O?r brif system, gydag ynni?r haul"
+218,"Point gas water heater, standard tariff"
+219,"Point gas water heater, standard tariff, standard tariff"
+220,"From main system, plus solar, waste water heat recovery, flue gas heat recovery"
+221,Cynllun cymunedol
+222,"Electric instantaneous at point of use, standard tariff, standard tariff"
+223,"Oil boiler/circulator, no cylinderstat"
+224,", standard tariff"
+225,"From second main heating system, flue gas heat recovery, waste water heat recovery"
+226,"Electric instantaneous at point of use, no cylinderstat, no cylinderstat"
+227,Dim system ar gael: rhagdybir bod twymwr tanddwr trydan
+228,Community scheme |O gynllun cymunedol
+229,"Single-point gas water heater, 7-hour tariff (on-peak)"
+230,"O?r brif system, gydag ynni?r haul, dim thermostat ar y silindr"
+231,O system eilaidd
+232,"OGÇÖr brif system, dim thermostat ar y silindr"
+233,"From main system, plus solar"
+234,From main system
+235,"Electric immersion, standard tariff"
+236,"From main system, no cylinderstat"
+237,"From main system, waste water heat recovery"
+238,SAP05:Hot-Water
+239,"From main system, no cylinder thermostat"
+240,"Electric immersion, off-peak"
+241,"From main system, flue gas heat recovery, waste water heat recovery"
+242,"From main system, flue gas heat recovery"
+243,Electric instantaneous at point of use
+244,Gas multipoint
+245,No system present: electric immersion assumed
+246,"Electric immersion, standard tariff, plus solar"
+247,Community scheme
+248,"Electric immersion, dual tariff"
+249,Gas boiler/circulator
+250,"Community scheme, no cylinder thermostat"
+251,"From main system, no cylinder thermostat, plus solar"
+252,"From main system, plus solar, no cylinder thermostat"
+253,Gas instantaneous at point of use
+254,"Gas boiler/circulator, no cylinder thermostat"
+255,Electric heat pump for water heating only
+256,"Electric immersion, standard tariff, flue gas heat recovery"
+257,No hot water system present - electric immersion assumed
+258,"Electric immersion, off-peak, no cylinder thermostat"
+259,From secondary system
+260,community scheme
+261,"Community scheme, waste water heat recovery"
+262,"From secondary system, no cylinder thermostat"
+263,"From main system, no cylinderstat, no cylinderstat"
+264,"Twymwr tanddwr, an-frig"
+265,"From main system, standard tariff"
+266,Gas range cooker
+267,"Electric immersion, off-peak, plus solar"
+268,"Community scheme, plus solar"
+269,"Gas boiler/circulator, plus solar"
+270,Electric heat pump
+271,"Solid fuel range cooker, no cylinder thermostat"
+272,From community scheme
+273,"Electric immersion, standard tariff, no cylinder thermostat"
+274,"Electric immersion, off-peak, no cylinderstat"
+275,"From secondary system, no cylinderstat"
+276,"Electric heat pump for water heating only, plus solar"
+277,"Solid fuel boiler/circulator, no cylinder thermostat"
+278,Solid fuel range cooker
+279,From main system
+280,"Electric immersion, off-peak"
+281,"From main system, no cylinder thermostat"
+282,"From main system, no cylinderstat"
+283,From secondary system
+284,Gas multipoint
+285,Community scheme
+286,"Electric immersion, standard tariff"
+287,"Community scheme, plus solar"
+288,No system present: electric immersion assumed
+289,Electric instantaneous at point of use
+290,"From main system, plus solar"
+291,"From main system, flue gas heat recovery"
+292,Gas instantaneous at point of use
+293,SAP05:Hot-Water
+294,"From main system, waste water heat recovery"
+295,Gas boiler/circulator
+296,Electric heat pump for water heating only
+297,"From main system, plus solar, no cylinder thermostat"
+298,"From main system, plus solar, flue gas heat recovery"
+299,"From secondary system, no cylinder thermostat"
+300,"Gas boiler/circulator, no cylinder thermostat"
+301,"Community scheme, no cylinder thermostat"
+302,"Electric immersion, off-peak, plus solar"
+303,community scheme
+304,"No system present: electric immersion assumed, plus solar"
+305,"Gas multipoint, no cylinder thermostat"
+306,Gas range cooker
+307,"From secondary system, no cylinderstat"
+308,Solid fuel boiler/circulator
+309,"Electric immersion, standard tariff, plus solar"
+310,"From main system, no cylinder thermostat, plus solar"
+311,"Electric immersion, off-peak, no cylinder thermostat"
+312,From main system
+313,"Electric immersion, off-peak"
+314,"From main system, no cylinder thermostat"
+315,"From main system, no cylinderstat"
+316,From secondary system
+317,Gas multipoint
+318,Community scheme
+319,"Electric immersion, standard tariff"
+320,"Community scheme, plus solar"
+321,No system present: electric immersion assumed
+322,Electric instantaneous at point of use
+323,"From main system, plus solar"
+324,"From main system, flue gas heat recovery"
+325,Gas instantaneous at point of use
+326,SAP05:Hot-Water
+327,"From main system, waste water heat recovery"
+328,Gas boiler/circulator
+329,Electric heat pump for water heating only
+330,"From main system, plus solar, no cylinder thermostat"
+331,"From main system, plus solar, flue gas heat recovery"
+332,"From secondary system, no cylinder thermostat"
+333,"Gas boiler/circulator, no cylinder thermostat"
+334,"Community scheme, no cylinder thermostat"
+335,"Electric immersion, off-peak, plus solar"
+336,community scheme
+337,"No system present: electric immersion assumed, plus solar"
+338,"Gas multipoint, no cylinder thermostat"
+339,Gas range cooker
+340,"From secondary system, no cylinderstat"
+341,Solid fuel boiler/circulator
+342,"Electric immersion, standard tariff, plus solar"
+343,"From main system, no cylinder thermostat, plus solar"
+344,"Electric immersion, off-peak, no cylinder thermostat"
+345,From main system
+346,"Electric immersion, off-peak"
+347,"From main system, no cylinder thermostat"
+348,"From main system, no cylinderstat"
+349,From secondary system
+350,Gas multipoint
+351,Community scheme
+352,"Electric immersion, standard tariff"
+353,"Community scheme, plus solar"
+354,No system present: electric immersion assumed
+355,Electric instantaneous at point of use
+356,"From main system, plus solar"
+357,"From main system, flue gas heat recovery"
+358,Gas instantaneous at point of use
+359,SAP05:Hot-Water
+360,"From main system, waste water heat recovery"
+361,Gas boiler/circulator
+362,Electric heat pump for water heating only
+363,"From main system, plus solar, no cylinder thermostat"
+364,"From main system, plus solar, flue gas heat recovery"
+365,"From secondary system, no cylinder thermostat"
+366,"Gas boiler/circulator, no cylinder thermostat"
+367,"Community scheme, no cylinder thermostat"
+368,"Electric immersion, off-peak, plus solar"
+369,community scheme
+370,"No system present: electric immersion assumed, plus solar"
+371,"Gas multipoint, no cylinder thermostat"
+372,Gas range cooker
+373,"From secondary system, no cylinderstat"
+374,Solid fuel boiler/circulator
+375,"Electric immersion, standard tariff, plus solar"
+376,"From main system, no cylinder thermostat, plus solar"
+377,"Electric immersion, off-peak, no cylinder thermostat"
+378,From main system
+379,"Electric immersion, off-peak"
+380,"From main system, no cylinder thermostat"
+381,"From main system, no cylinderstat"
+382,From secondary system
+383,Gas multipoint
+384,Community scheme
+385,"Electric immersion, standard tariff"
+386,"Community scheme, plus solar"
+387,No system present: electric immersion assumed
+388,Electric instantaneous at point of use
+389,"From main system, plus solar"
+390,"From main system, flue gas heat recovery"
+391,Gas instantaneous at point of use
+392,SAP05:Hot-Water
+393,"From main system, waste water heat recovery"
+394,Gas boiler/circulator
+395,Electric heat pump for water heating only
+396,"From main system, plus solar, no cylinder thermostat"
+397,"From main system, plus solar, flue gas heat recovery"
+398,"From secondary system, no cylinder thermostat"
+399,"Gas boiler/circulator, no cylinder thermostat"
+400,"Community scheme, no cylinder thermostat"
+401,"Electric immersion, off-peak, plus solar"
+402,community scheme
+403,"No system present: electric immersion assumed, plus solar"
+404,"Gas multipoint, no cylinder thermostat"
+405,Gas range cooker
+406,"From secondary system, no cylinderstat"
+407,Solid fuel boiler/circulator
+408,"Electric immersion, standard tariff, plus solar"
+409,"From main system, no cylinder thermostat, plus solar"
+410,"Electric immersion, off-peak, no cylinder thermostat"
+411,From main system
+412,"Electric immersion, off-peak"
+413,"From main system, no cylinder thermostat"
+414,"From main system, no cylinderstat"
+415,From secondary system
+416,Gas multipoint
+417,Community scheme
+418,"Electric immersion, standard tariff"
+419,"Community scheme, plus solar"
+420,No system present: electric immersion assumed
+421,Electric instantaneous at point of use
+422,"From main system, plus solar"
+423,"From main system, flue gas heat recovery"
+424,Gas instantaneous at point of use
+425,SAP05:Hot-Water
+426,"From main system, waste water heat recovery"
+427,Gas boiler/circulator
+428,Electric heat pump for water heating only
+429,"From main system, plus solar, no cylinder thermostat"
+430,"From main system, plus solar, flue gas heat recovery"
+431,"From secondary system, no cylinder thermostat"
+432,"Gas boiler/circulator, no cylinder thermostat"
+433,"Community scheme, no cylinder thermostat"
+434,"Electric immersion, off-peak, plus solar"
+435,community scheme
+436,"No system present: electric immersion assumed, plus solar"
+437,"Gas multipoint, no cylinder thermostat"
+438,Gas range cooker
+439,"From secondary system, no cylinderstat"
+440,Solid fuel boiler/circulator
+441,"Electric immersion, standard tariff, plus solar"
+442,"From main system, no cylinder thermostat, plus solar"
+443,"Electric immersion, off-peak, no cylinder thermostat"
+444,From main system
+445,"Electric immersion, off-peak"
+446,"From main system, no cylinder thermostat"
+447,"From main system, no cylinderstat"
+448,From secondary system
+449,Gas multipoint
+450,Community scheme
+451,"Electric immersion, standard tariff"
+452,"Community scheme, plus solar"
+453,No system present: electric immersion assumed
+454,Electric instantaneous at point of use
+455,"From main system, plus solar"
+456,"From main system, flue gas heat recovery"
+457,Gas instantaneous at point of use
+458,SAP05:Hot-Water
+459,"From main system, waste water heat recovery"
+460,Gas boiler/circulator
+461,Electric heat pump for water heating only
+462,"From main system, plus solar, no cylinder thermostat"
+463,"From main system, plus solar, flue gas heat recovery"
+464,"From secondary system, no cylinder thermostat"
+465,"Gas boiler/circulator, no cylinder thermostat"
+466,"Community scheme, no cylinder thermostat"
+467,"Electric immersion, off-peak, plus solar"
+468,community scheme
+469,"No system present: electric immersion assumed, plus solar"
+470,"Gas multipoint, no cylinder thermostat"
+471,Gas range cooker
+472,"From secondary system, no cylinderstat"
+473,Solid fuel boiler/circulator
+474,"Electric immersion, standard tariff, plus solar"
+475,"From main system, no cylinder thermostat, plus solar"
+476,"Electric immersion, off-peak, no cylinder thermostat"
+477,"Heat pump, waste water heat recovery"
+478,
+479,"Popty estynedig olew, dim thermostat ar y silindr"
+480,Popty estynedig olew
+481,Trydan ar unwaith yn y fan lle mae'n cael ei ddefnyddio
+482,O gynllun cymunedol
+483,Trydan ar unwaith yn y fan lle mae’n cael ei ddefnyddio
+484,Room heaters
+485,Trydan ar unwaith yn y fan lle maeGÇÖn cael ei ddefnyddio
+486,"Oil boiler/circulator, waste water heat recovery"
+487,"Trochi trydan, an-frig"
+488,"Electric immersion, standard tariff, plus solar, waste water heat recovery"
+489,"Oil boiler/circulator, plus solar, waste water heat recovery"
+490,Nwy wrth fwy nag un pwynt
+491,"Electric heat pump, waste water heat recovery"
