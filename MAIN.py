@@ -1,23 +1,10 @@
 import pandas as pd
-import os
-from msilib import sequence
-from sklearn.model_selection import train_test_split as tts
 import pandas as pd
-from sklearn.metrics import mean_squared_error
 import numpy as np
-from sklearn.linear_model import LinearRegression as LR
 import tensorflow as tf
-from tensorflow import keras
-from alive_progress import alive_bar
-from sklearn import preprocessing
-from tensorflow.keras import layers
-from keras.models import Sequential
-from keras.layers import Dense
-import keras.backend as k
 from sklearn import metrics
 import warnings
 import pickle
-import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
 
 def preproccesing(Data):
