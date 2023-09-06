@@ -25,7 +25,7 @@ def replacer(df, x):
             df[x] = [x if not isinstance(x, str) else -1 for x in df[x].tolist()]
         return df
 
-    def replacerwall(df):
+def replacerwall(df):
         y = df["walls-description"].tolist()
         list2 = []
         insulation = []
@@ -60,7 +60,7 @@ def replacer(df, x):
         df["Average thermal transmittance-wall"] = list2
         return df
 
-    def replacerroof(df):
+def replacerroof(df):
         y = df["roof-description"].tolist()
         list2 = []
         insulation = []
