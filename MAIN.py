@@ -8,75 +8,7 @@ import pickle
 
 warnings.filterwarnings("ignore")
 
-
-def preproccesing(Data):
-    Data = Data[
-        [
-            "property-type",
-            "built-form",
-            "local-authority",
-            "transaction-type",
-            "total-floor-area",
-            "energy-tariff",
-            "mains-gas-flag",
-            "floor-level",
-            "flat-top-storey",
-            "multi-glaze-proportion",
-            "glazed-type",
-            "glazed-area",
-            "extension-count",
-            "number-habitable-rooms",
-            "number-heated-rooms",
-            "low-energy-lighting",
-            "number-open-fireplaces",
-            "hotwater-description",
-            "floor-description",
-            "windows-description",
-            "walls-description",
-            "roof-description",
-            "mainheat-description",
-            "mainheatcont-description",
-            "main-fuel",
-            "heat-loss-corridor",
-            "unheated-corridor-length",
-            "floor-height",
-            "solar-water-heating-flag",
-            "mechanical-ventilation",
-            "construction-age-band",
-            "fixed-lighting-outlets-count",
-            "low-energy-fixed-light-count",
-            "tenure",
-            "secondheat-description",
-        ]
-    ]
-    Data = Data.rename(columns={"Unnamed: 0": "temp_index"})
-    Data = Data.reset_index(drop=True)
-    Data = (
-        Data.replace("Very Poor", 1)
-        .replace("Poor", 2)
-        .replace("Average", 3)
-        .replace("Good", 4)
-        .replace("Very Good", 5)
-        .replace("G", 1)
-        .replace("F", 2)
-        .replace("E", 3)
-        .replace("D", 4)
-        .replace("C", 5)
-        .replace("B", 6)
-        .replace("A", 7)
-    )
-    Data["property-type"] = (
-        Data["property-type"]
-        .replace("Flat", 1)
-        .replace("House", 2)
-        .replace("Bungalow", 3)
-        .replace("Maisonette", 4)
-        .replace("Park home", 5)
-    )
-    Data = Data.replace(["NO DATA!", "INVALID!", "", "NODATA!"], np.nan)
-    Data = Data.replace([np.inf, -np.inf], np.nan)
-
-    def replacer(df, x):
+def replacer(df, x):
         try:
             dictdf = pd.read_csv("Dict/" + x + ".csv")
             y = dictdf["0"].tolist()
@@ -162,6 +94,73 @@ def preproccesing(Data):
         df["roof type"] = wall_type
         df["Average thermal transmittance-roof"] = list2
         return df
+
+def preproccesing(Data):
+    Data = Data[
+        [
+            "property-type",
+            "built-form",
+            "local-authority",
+            "transaction-type",
+            "total-floor-area",
+            "energy-tariff",
+            "mains-gas-flag",
+            "floor-level",
+            "flat-top-storey",
+            "multi-glaze-proportion",
+            "glazed-type",
+            "glazed-area",
+            "extension-count",
+            "number-habitable-rooms",
+            "number-heated-rooms",
+            "low-energy-lighting",
+            "number-open-fireplaces",
+            "hotwater-description",
+            "floor-description",
+            "windows-description",
+            "walls-description",
+            "roof-description",
+            "mainheat-description",
+            "mainheatcont-description",
+            "main-fuel",
+            "heat-loss-corridor",
+            "unheated-corridor-length",
+            "floor-height",
+            "solar-water-heating-flag",
+            "mechanical-ventilation",
+            "construction-age-band",
+            "fixed-lighting-outlets-count",
+            "low-energy-fixed-light-count",
+            "tenure",
+            "secondheat-description",
+        ]
+    ]
+    Data = Data.rename(columns={"Unnamed: 0": "temp_index"})
+    Data = Data.reset_index(drop=True)
+    Data = (
+        Data.replace("Very Poor", 1)
+        .replace("Poor", 2)
+        .replace("Average", 3)
+        .replace("Good", 4)
+        .replace("Very Good", 5)
+        .replace("G", 1)
+        .replace("F", 2)
+        .replace("E", 3)
+        .replace("D", 4)
+        .replace("C", 5)
+        .replace("B", 6)
+        .replace("A", 7)
+    )
+    Data["property-type"] = (
+        Data["property-type"]
+        .replace("Flat", 1)
+        .replace("House", 2)
+        .replace("Bungalow", 3)
+        .replace("Maisonette", 4)
+        .replace("Park home", 5)
+    )
+    Data = Data.replace(["NO DATA!", "INVALID!", "", "NODATA!"], np.nan)
+    Data = Data.replace([np.inf, -np.inf], np.nan)
 
     Data["flat-top-storey"] = Data["flat-top-storey"].replace("N", 0).replace("Y", 1)
     Data = replacer(Data, "floor-level")
